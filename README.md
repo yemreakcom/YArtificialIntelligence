@@ -1,4 +1,4 @@
-# YMachineLearning <!-- omit in toc -->
+# YArtificalIntelligent <!-- omit in toc -->
 
 Makine öğrenimi üzerine çalışmalarım 👨‍🏫💻
 
