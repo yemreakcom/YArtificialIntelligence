@@ -4,17 +4,25 @@ Makine öğrenimi üzerine çalışmalarım 👨‍🏫💻
 
 > Tüm Bilgiler Bu Alana Aktarılacaktır.
 
-## İçerikler <!-- omit in toc -->
+## Açıklama
 
-- [Sık Kullanılan Frameworkler](#s%c4%b1k-kullan%c4%b1lan-frameworkler)
-- [Destek ve İletişim](#destek-ve-%c4%b0leti%c5%9fim)
+- Kişisel notlarım 👨‍🏫 [Kişisel Notlar](Ki%C5%9Fisel%20Notlar) dizinindedir
 
+> Data Science 📊 notlarım için [YDataScience](https://github.com/yedhrab/YDataScience) _repository_'isine bakabilirsin.
 ## Sık Kullanılan Frameworkler
 
 | Framework  | Tercih Sebebi (Open-Source)                 |
 | ---------- | ------------------------------------------- |
 | Tensorflow | Detaylarla uğraşmak isteyenler              |
 | Keras      | Çok daha hızlı bir şekilde model oluşturmak |
+
+### Uygun Framework Seçimi Nasıl Olur
+
+- En kolay programlanabilir ve geliştirilebilir olması lazımdır
+- Hızlı çalışması lazımdır
+- Tam olarak open source olmalı ve gelişimi daim olmalı
+  - İleride kapanmamalı
+  - Gelişimi yarıda kalmamlı
 
 > Detaylar için [TensorFlow or Keras? Which one should I learn?](https://medium.com/implodinggradients/tensorflow-or-keras-which-one-should-i-learn-5dd7fa3f9ca0) yazısına bakabilirsin.
 
