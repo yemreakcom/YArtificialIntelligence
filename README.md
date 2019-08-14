@@ -1,6 +1,6 @@
 # YArtificalIntelligent <!-- omit in toc -->
 
-Makine öğrenimi üzerine çalışmalarım 👨‍🏫💻
+Makine öğrenimi 👨‍🏫💻, Sinir Ağları 🕸 ve Deep Learning 🧠 üzerine çalışmalarım.
 
 > Tüm Bilgiler Bu Alana Aktarılacaktır.
 
