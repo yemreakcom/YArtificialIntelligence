@@ -22,6 +22,7 @@ Faydalı olabilecek kaynakları ⛵ derlediğim yer.
 ## Faydalı Yazılar
 
 - [12 Things I Learned During My First Year as a Machine Learning Engineer](https://towardsdatascience.com/12-things-i-learned-during-my-first-year-as-a-machine-learning-engineer-2991573a9195)
+- [The 5 Feature Selection Algorithms every Data Scientist should know](https://towardsdatascience.com/the-5-feature-selection-algorithms-every-data-scientist-need-to-know-3a6b566efd2)
 - [An E-learning System With Multifacial Emotion]
 - [Education 4.0 – Fostering Student’s Performance]
 - [Importance of Including Practical Machine Learning]
