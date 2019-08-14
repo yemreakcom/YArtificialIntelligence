@@ -7,8 +7,10 @@ Makine öğrenimi üzerine çalışmalarım 👨‍🏫💻
 ## Açıklama
 
 - Kişisel notlarım 👨‍🏫 [Kişisel Notlar](Ki%C5%9Fisel%20Notlar) dizinindedir
+- Deeplearning.ai 🧠 kursu notlarım [Deeplearning.ai](DeepLearning.ai) dizinindedir.
 
 > Data Science 📊 notlarım için [YDataScience](https://github.com/yedhrab/YDataScience) _repository_'isine bakabilirsin.
+
 ## Sık Kullanılan Frameworkler
 
 | Framework  | Tercih Sebebi (Open-Source)                 |
