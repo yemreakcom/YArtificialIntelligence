@@ -9,7 +9,7 @@ Makine öğrenimi 👨‍🏫💻, Sinir Ağları 🕸 ve Deep Learning 🧠 üz
 - Kişisel notlarım 👨‍🏫 [Kişisel Notlar](Ki%C5%9Fisel%20Notlar) dizinindedir
 - Deeplearning.ai 🧠 kursu notlarım [Deeplearning.ai](DeepLearning.ai) dizinindedir.
 
-> Data Science 📊 notlarım için [YDataScience](https://github.com/yedhrab/YDataScience) _repository_'isine bakabilirsin.
+> Bir başka kaynak için [buraya](https://github.com/yedhrab/YDataScience) bakabilirsin.
 
 ## Sık Kullanılan Frameworkler
 
