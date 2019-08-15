@@ -2,12 +2,13 @@
 
 Makine öğrenimi 👨‍🏫💻, Sinir Ağları 🕸 ve Deep Learning 🧠 üzerine çalışmalarım.
 
-> Ek bir kaynak için [DeepLearningNotes 💫](https://github.com/asmaamirkhan/DeepLearningNotes) _repository_'isine bakabilirsin.
+> Ek bir **güncel** kaynak için [DeepLearningNotes 💫](https://github.com/asmaamirkhan/DeepLearningNotes) _repository_'isine bakabilirsin.
 
 ## Açıklama
 
 - Kişisel notlarım [Kişisel Notlar 👨‍🏫](Ki%C5%9Fisel%20Notlar) dizinindedir
 - Deeplearning kursu notlarım [Deeplearning.ai 🧠](DeepLearning.ai) dizinindedir.
+- Faydalı kaynaklar listem için [buraya 🌟](Ki%C5%9Fisel%20Notlar%5C0%20-%20Faydal%C4%B1%20Kaynaklar.md) bakabilirsin.
 
 > Data Science notlarım için [YDataScience 📊](https://github.com/yedhrab/YDataScience) _repository_'isine bakabilirsin.
 

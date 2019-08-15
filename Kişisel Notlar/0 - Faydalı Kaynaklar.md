@@ -2,6 +2,19 @@
 
 Faydalı olabilecek kaynakları ⛵ derlediğim yer.
 
+## Etkili Öğrenme Linkleri 🌟
+
+- [Türkçe Yapay Zeka Kaynakları ☪](https://github.com/deeplearningturkiye/turkce-yapay-zeka-kaynaklari)
+- [Machine Learning makaleleri 📃](https://github.com/Swall0w/papers)
+- [Deeplearning 🧠 Coursera Çözümleri ve Notları](https://github.com/Kulbear/deep-learning-coursera)
+- [Deeplearning Modelleri 🤖](https://github.com/rasbt/deeplearning-models)
+- [Tensorflow Kursu - Github](https://github.com/machinelearningmindset/TensorFlow-Course)
+
+## Takip Edilmesi Gereken Kişiler veya Topluluklar
+
+- [Siraj Raval 🌟](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+- [Nabih Ibrahim Bawazir](https://www.linkedin.com/in/nabihbawazir/detail/recent-activity/shares/)
+
 ## Yönlendirici ve Eğitici Kaynaklar
 
 - [ML Cheat Sheet]
@@ -28,11 +41,6 @@ Faydalı olabilecek kaynakları ⛵ derlediğim yer.
 - [Importance of Including Practical Machine Learning]
 - [Improving of Personal Educational Content Using]
 - [Machine Learning Model for Analyzing Learning]
-
-## Takip Edilmesi Gereken Kişiler veya Topluluklar
-
-- [Nabih Ibrahim Bawazir](https://www.linkedin.com/in/nabihbawazir/detail/recent-activity/shares/)
-- [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 
 <!-- Yönlendirici ve Eğiti Kaynaklar -->
 
