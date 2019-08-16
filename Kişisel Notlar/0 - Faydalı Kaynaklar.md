@@ -15,7 +15,7 @@ Faydalı olabilecek kaynakları ⛵ derlediğim yer.
 - [Siraj Raval 🌟](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 - [Nabih Ibrahim Bawazir](https://www.linkedin.com/in/nabihbawazir/detail/recent-activity/shares/)
 
-## Yönlendirici ve Eğitici Kaynaklar
+## Yönlendirici ve Eğitici aynaklar
 
 - [ML Cheat Sheet]
 - [Tutorial List]
@@ -24,8 +24,12 @@ Faydalı olabilecek kaynakları ⛵ derlediğim yer.
 - [Tensorflow vs PyTorch, Nereden Başlanmalı][tensorflow vs pytorch]
 - [Keras Kursu][keras ~ datacamp]
 
-## Yapılmış Çalışmalar Linkler
+## Yapılmış Model Çalışmaları
 
+Başkaların yapmış olduğu çalışan modeller 🤖
+
+- [TensorFlow Object Counting API](https://github.com/ahmetozlu/tensorflow_object_counting_api)
+- [Person-Detection-and-Tracking](https://github.com/ambakick/Person-Detection-and-Tracking)
 - [Makine Öğrenimi ve Derin Öğrenme ile Müşteri Kayıp (Churn) Analizi-1]
 - [TL'yi Bulma]
 - [Gerçekçi Sinirsel Konuşan Kafa Modelleri]
