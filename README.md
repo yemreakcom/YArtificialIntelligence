@@ -6,7 +6,7 @@ Makine öğrenimi 👨‍🏫💻, Sinir Ağları 🕸 ve Deep Learning 🧠 üz
 
 ## Açıklama
 
-- Hızlı notlar 🏃‍♀️ [Cheet Sheets ](Cheet%20Sheets) dizinindedir
+- Hızlı notlar [Cheet Sheets 🏃‍♀️](Cheet%20Sheets) dizinindedir
 - Kişisel notlarım [Kişisel Notlar 👨‍🏫](Ki%C5%9Fisel%20Notlar) dizinindedir
 - Deeplearning kursu notlarım [Deeplearning.ai 🧠](DeepLearning.ai) dizinindedir.
 - Faydalı kaynaklar listem için [buraya 🌟](Kişisel%20Notlar/0%20-%20Faydalı%20Kaynaklar.md) bakabilirsin.
