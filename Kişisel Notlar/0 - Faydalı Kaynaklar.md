@@ -4,7 +4,10 @@ Faydalı olabilecek kaynakları ⛵ derlediğim yer.
 
 ## Etkili Öğrenme Linkleri 🌟
 
-- [Türkçe Yapay Zeka Kaynakları ☪](https://github.com/deeplearningturkiye/turkce-yapay-zeka-kaynaklari)
+- [Türkçe ☪ Yapay Zeka Kaynakları](https://github.com/deeplearningturkiye/turkce-yapay-zeka-kaynaklari)
+- [Türkçe ☪ Yapay Zeka Terimleri](https://github.com/deeplearningturkiye/turkce-yapay-zeka-terimleri)
+- [Kapsamlı Derin Öğrenme Rehberi 💫](https://github.com/ayyucekizrak/Kapsamli_Derin_Ogrenme_Rehberi)
+- [Popüler Makine Öğrenimi Algoritmaları ve Açıklamaları](https://github.com/trekhleb/homemade-machine-learning)
 - [Machine Learning makaleleri 📃](https://github.com/Swall0w/papers)
 - [Deeplearning 🧠 Coursera Çözümleri ve Notları](https://github.com/Kulbear/deep-learning-coursera)
 - [Deeplearning Modelleri 🤖](https://github.com/rasbt/deeplearning-models)
@@ -30,6 +33,9 @@ Başkaların yapmış olduğu çalışan modeller 🤖
 
 - [TensorFlow Object Counting API](https://github.com/ahmetozlu/tensorflow_object_counting_api)
 - [Person-Detection-and-Tracking](https://github.com/ambakick/Person-Detection-and-Tracking)
+
+### Eski Çalışma Kayıtları
+
 - [Makine Öğrenimi ve Derin Öğrenme ile Müşteri Kayıp (Churn) Analizi-1]
 - [TL'yi Bulma]
 - [Gerçekçi Sinirsel Konuşan Kafa Modelleri]
