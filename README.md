@@ -15,10 +15,12 @@ Makine öğrenimi 👨‍🏫💻, Sinir Ağları 🕸 ve Deep Learning 🧠 üz
 
 ## Sık Kullanılan Frameworkler
 
-| Framework  | Tercih Sebebi (Open-Source)                 |
+| Framework  | Tercih Sebebi                               |
 | ---------- | ------------------------------------------- |
 | Tensorflow | Detaylarla uğraşmak isteyenler              |
 | Keras      | Çok daha hızlı bir şekilde model oluşturmak |
+
+> Her ikisi de **Open Source** frameworklerdir.
 
 ### Uygun Framework Seçimi Nasıl Olur
 
