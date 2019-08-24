@@ -14,6 +14,7 @@ Kariyer hedefi için olmazsa olmaz olan kurstur. 🚀
 - Yine aynı kişi (Andrew Ng) tarafından verilen videolara [buradaki][Artifical All in One - Youtube] linkten de erişebilirsin
 
 > ![](../res/word_fuat_beser.png)
+>
 > [2019 Yılı Yapay Zeka Eğitim ve Uygulama Programı](https://medium.com/deep-learning-turkiye/2019-yapay-zeka-e%C4%9Fitim-ve-uygulama-program%C4%B1-add138988809)'da geçen bir mesajlaşmadır.
 
 [Yapay zeka belgeseli]: https://www.youtube.com/watch?v=qh2ESbatq68
