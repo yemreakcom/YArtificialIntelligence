@@ -8,10 +8,21 @@ Makine öğrenimi 👨‍🏫💻, Sinir Ağları 🕸 ve Deep Learning 🧠 üz
 
 - Hızlı notlar [Cheet Sheets 🏃‍♀️](Cheet%20Sheets) dizinindedir
 - Kişisel notlarım [Kişisel Notlar 👨‍🏫](Ki%C5%9Fisel%20Notlar) dizinindedir
-- Deeplearning kursu notlarım [Deeplearning.ai 🧠](DeepLearning.ai) dizinindedir.
 - Faydalı kaynaklar listem için [buraya 🌟](Kişisel%20Notlar/0%20-%20Faydalı%20Kaynaklar.md) bakabilirsin.
+- Deeplearning kursu notlarım [Deeplearning.ai 🧠](DeepLearning.ai) dizinindedir.
 
 > Data Science notlarım için [YDataScience 📊](https://github.com/yedhrab/YDataScience) _repository_'isine bakabilirsin.
+
+## Yapay Zeka için Giriş
+
+Motive edici ve bilgilendirici belgeseli [buradan][Yapay zeka belgeseli] izleyebilirsin.
+
+- Bilgilerini test edebileceğin siteye [buradan][Hackerrank] erişebilirsin.
+- Deep Learning Türkiye'nin 2019 yılı için paylaşmış olduğu kaynaklara [buraya][Deeplearning yapay zeka uygulması 2019] tıklayarak ulaşabilirsin
+
+[Yapay zeka belgeseli]: https://www.youtube.com/watch?v=qh2ESbatq68
+[Hackerrank]: https://www.hackerrank.com/domains/ai
+[Deeplearning yapay zeka uygulması 2019]: https://medium.com/deep-learning-turkiye/2019-yapay-zeka-e%C4%9Fitim-ve-uygulama-program%C4%B1-add138988809
 
 ## Sık Kullanılan Frameworkler
 

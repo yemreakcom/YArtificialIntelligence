@@ -2,6 +2,30 @@
 
 Faydalı olabilecek kaynakları ⛵ derlediğim yer.
 
+## Coursera Üzerinden Eğitim
+
+Kariyer hedefi için olmazsa olmaz olan kurstur. 🚀
+
+- [Coursera Deeplearning.ai 🧠](https://www.coursera.org/specializations/deep-learning)
+- [Deeplearning 🧠 Coursera Çözümleri ve Notları](https://github.com/Kulbear/deep-learning-coursera)
+- Sertifika almak ile ilgilenmiyorsa, aynılarına [buradan][Youtube] erişebilirsin
+- Maddi imkanın yok ise [Financial Aid][Financial Aid] ile ücretsiz satın almayı deneyebilirsin
+  - Financial Aid başvurusu 2 hafta önceden yapılmalıdır.
+- Yine aynı kişi (Andrew Ng) tarafından verilen videolara [buradaki][Artifical All in One - Youtube] linkten de erişebilirsin
+
+> ![](../res/word_fuat_beser.png)
+> [2019 Yılı Yapay Zeka Eğitim ve Uygulama Programı](https://medium.com/deep-learning-turkiye/2019-yapay-zeka-e%C4%9Fitim-ve-uygulama-program%C4%B1-add138988809)'da geçen bir mesajlaşmadır.
+
+[Yapay zeka belgeseli]: https://www.youtube.com/watch?v=qh2ESbatq68
+[Hackerrank]: https://www.hackerrank.com/domains/ai
+[Türkçe yapay zeka kaynakları]: ..%2FYapay%20Zeka%20Notlar%C4%B1%2FT%C3%BCrk%C3%A7e%20Yapay%20Zeka%20Kaynaklar%C4%B1.md
+[Deeplearning yapay zeka uygulması 2019]: https://medium.com/deep-learning-turkiye/2019-yapay-zeka-e%C4%9Fitim-ve-uygulama-program%C4%B1-add138988809
+[Coursera]: https://medium.com/deep-learning-turkiye/t%C3%BCrk%C3%A7e-altyaz%C4%B1l%C4%B1-yapay-zeka-ve-derin-%C3%B6%C4%9Frenme-kursu-deeplearning-ai-85d60f4f29d7
+[Financial Aid]: https://medium.com/deep-learning-turkiye/courseradaki-derin-%C3%B6%C4%9Frenme-kursuna-financial-aid-uygulamas%C4%B1-ile-%C3%BCcretsiz-kaydolmak-20ca52ff9b70
+[Youtube]: https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w
+[Artifical All in One - Youtube]: https://www.youtube.com/channel/UC5zx8Owijmv-bbhAK6Z9apg/featured?disable_polymer=1
+
+
 ## Etkili Öğrenme Linkleri 🌟
 
 - [Türkçe ☪ Yapay Zeka Kaynakları](https://github.com/deeplearningturkiye/turkce-yapay-zeka-kaynaklari)
@@ -9,14 +33,14 @@ Faydalı olabilecek kaynakları ⛵ derlediğim yer.
 - [Kapsamlı Derin Öğrenme Rehberi 💫](https://github.com/ayyucekizrak/Kapsamli_Derin_Ogrenme_Rehberi)
 - [Popüler Makine Öğrenimi Algoritmaları ve Açıklamaları](https://github.com/trekhleb/homemade-machine-learning)
 - [Machine Learning makaleleri 📃](https://github.com/Swall0w/papers)
-- [Deeplearning 🧠 Coursera Çözümleri ve Notları](https://github.com/Kulbear/deep-learning-coursera)
 - [Deeplearning Modelleri 🤖](https://github.com/rasbt/deeplearning-models)
 - [Tensorflow Kursu - Github](https://github.com/machinelearningmindset/TensorFlow-Course)
 
 ## Takip Edilmesi Gereken Kişiler veya Topluluklar
 
-- [Siraj Raval 🌟](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
-- [Nabih Ibrahim Bawazir](https://www.linkedin.com/in/nabihbawazir/detail/recent-activity/shares/)
+- [Siraj Raval 🤵🌟](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+- [Nabih Ibrahim Bawazir - LinkedIn 🤵](https://www.linkedin.com/in/nabihbawazir/detail/recent-activity/shares/)
+- [Deep Learning Türkiye ☪](https://medium.com/deep-learning-turkiye)
 
 ## Yönlendirici ve Eğitici aynaklar
 
