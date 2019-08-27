@@ -2,11 +2,13 @@
 
 ## İçerikler <!-- omit in toc -->
 
-- [ResNet (Resudial Network)](#resnet-resudial-network)
-- [Neden ResNet](#neden-resnet)
-  - [Eğitim Grafiği (Loss)](#e%c4%9fitim-grafi%c4%9fi-loss)
-  - [ResNet vs PlainNet](#resnet-vs-plainnet)
-- [ResNet için Önemli Husular](#resnet-i%c3%a7in-%c3%96nemli-husular)
+- [ResNet (Resudial Network)](#ResNet-Resudial-Network)
+  - [Neden ResNet](#Neden-ResNet)
+  - [Eğitim Grafiği (Loss)](#E%C4%9Fitim-Grafi%C4%9Fi-Loss)
+  - [ResNet vs PlainNet](#ResNet-vs-PlainNet)
+  - [ResNet için Önemli Husular](#ResNet-i%C3%A7in-%C3%96nemli-Husular)
+- [1 x 1 Convolutional Nedir ve Neden Yapılır](#1-x-1-Convolutional-Nedir-ve-Neden-Yap%C4%B1l%C4%B1r)
+- [Inception Network](#Inception-Network)
 
 ## ResNet (Resudial Network)
 
@@ -19,7 +21,7 @@
 
 </details>
 
-## Neden ResNet
+### Neden ResNet
 
 - Derinlere indikçe sinir ağı aşınır
 - Öğrenme ve gelişme sürecinde kayıplara uğrar
@@ -40,7 +42,7 @@
 
 ![](../../res/resnet_vs_paint_nn.png)
 
-## ResNet için Önemli Husular
+### ResNet için Önemli Husular
 
 $(Conv \times 3 \rArr Pool) \rArr ... \rArr (Conv \times 3 \rArr Pool) \rArr Softmax$
 
@@ -52,3 +54,29 @@ $(Conv \times 3 \rArr Pool) \rArr ... \rArr (Conv \times 3 \rArr Pool) \rArr Sof
   - Boyutlar eşit olmayacağından ekstra bir hyperparam ($W_s$) ile çarpılarak, boyutlar eşitlenir
   - $a^{[l+2]} = W_s \times a^{[ l]}$
     - $dim(W_s) = (a^{[l+2]}, a_{a})$
+
+## 1 x 1 Convolutional Nedir ve Neden Yapılır
+
+> Network in network olarak da bilinir.
+
+- Temel amacı boyutu sıkıştırmak ve küçültmekdir. 
+  - $n_c$ değerini küçültmek için kullanılır
+  - $n_c \rArr n_f$ , $n_f$ = Filtre sayısı
+- Sıkıştırılmış verinin olduğu katmana **bottleneck layer** denir
+  - Şişenin dar kısmına verilen isim, bu katman CNN'in ufak kısmını ele alır
+  ![](../../res/pic_bottleneck.png) 
+- Bazı ağlarda hesaplamadan tasarruf edilir
+- 1 x 1 filtreye sokulup ardından ReLU'ya sokulma işlemidir
+  - Aynı derinlik hizasında olanlar toplanır ve öyle aktarılır
+- Eğer filtre ile kanal aynı ise katamana *non-linerity* (doğrusalsızlık) özelliği eklenir
+
+
+![](../../res/ex_1x1_conv.png)
+![](../../res/1x1_conv_drop_comp.png)
+
+## Inception Network
+
+- 1x1 Convolution'dan oluşan bir sürü Inception Module'den oluşur
+
+![](../../res/inception_module.png)
+![](../../res/inception_network.png)
