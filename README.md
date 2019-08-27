@@ -6,13 +6,18 @@ Makine öğrenimi 👨‍🏫💻, Sinir Ağları 🕸 ve Deep Learning 🧠 üz
 
 ## Açıklama
 
-- Hızlı notlar [Cheet Sheets 🏃‍♀️](Cheet%20Sheets) dizinindedir
-- Kişisel notlarım [Kişisel Notlar 👨‍🏫](Ki%C5%9Fisel%20Notlar) dizinindedir
-- Faydalı kaynaklar listem için [buraya 🌟](Kişisel%20Notlar/0%20-%20Faydalı%20Kaynaklar.md) bakabilirsin.
-- Deeplearning kursu notlarım [Deeplearning.ai 🧠](DeepLearning.ai) dizinindedir.
-- Sinir Ağları ile Otonom araç notlarıma [SelfDrivenCarCourse 🚗](https://github.com/yedhrab/SelfDrivenCarCourse) adlı repomdan bakabilirsin
+Kategorilenmiş notlarım hakkında:
 
-> - Data Science notlarım için [YDataScience 📊](https://github.com/yedhrab/YDataScience) _repository_'isine bakabilirsin.
+- Faydalı kaynaklar listem için [buraya 🌟](Kişisel%20Notlar/0%20-%20Faydalı%20Kaynaklar.md) bakabilirsin.
+- Sinir Ağları ile Otonom araç notlarıma [SelfDrivenCarCourse 🚗](https://github.com/yedhrab/SelfDrivenCarCourse) adlı repomdan bakabilirsin
+- Data Science notlarım için [YDataScience 📊](https://github.com/yedhrab/YDataScience) _repository_'isine bakabilirsin.
+
+| Dizin                                         | Açıklama                                               |
+| --------------------------------------------- | ------------------------------------------------------ |
+| [Cheet Sheets 🏃‍️](Cheet%20Sheets)           | Hızlı notlar                                           |
+| [El Yazılarım ✍](El%20Yaz%C4%B1lar%C4%B1m)    | Tabletim üzerinde aldığım notlar                       |
+| [Kişisel Notlar 👨‍🏫](Ki%C5%9Fisel%20Notlar) | Kişisel Notlar                                         |
+| [Deeplearning.ai 🧠](DeepLearning.ai)         | Coursera Deeplearning.ai kursu hakkında aldığım notlar |
 
 ## Yapay Zeka için Giriş
 
