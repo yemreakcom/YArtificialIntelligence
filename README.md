@@ -10,8 +10,9 @@ Makine öğrenimi 👨‍🏫💻, Sinir Ağları 🕸 ve Deep Learning 🧠 üz
 - Kişisel notlarım [Kişisel Notlar 👨‍🏫](Ki%C5%9Fisel%20Notlar) dizinindedir
 - Faydalı kaynaklar listem için [buraya 🌟](Kişisel%20Notlar/0%20-%20Faydalı%20Kaynaklar.md) bakabilirsin.
 - Deeplearning kursu notlarım [Deeplearning.ai 🧠](DeepLearning.ai) dizinindedir.
+- Sinir Ağları ile Otonom araç notlarıma [SelfDrivenCarCourse 🚗](https://github.com/yedhrab/SelfDrivenCarCourse) adlı repomdan bakabilirsin
 
-> Data Science notlarım için [YDataScience 📊](https://github.com/yedhrab/YDataScience) _repository_'isine bakabilirsin.
+> - Data Science notlarım için [YDataScience 📊](https://github.com/yedhrab/YDataScience) _repository_'isine bakabilirsin.
 
 ## Yapay Zeka için Giriş
 
