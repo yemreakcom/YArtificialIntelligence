@@ -56,9 +56,11 @@ Kariyer hedefi için olmazsa olmaz olan kurstur. 🚀
 
 Başkaların yapmış olduğu çalışan modeller 🤖
 
-- [TensorFlow Object Counting API](https://github.com/ahmetozlu/tensorflow_object_counting_api)
-- [Person-Detection-and-Tracking](https://github.com/ambakick/Person-Detection-and-Tracking)
-- [Yüzden duygu ve cinsiyet algılama 👩](https://github.com/DiaaZiada/Faces)
+- [Yüz algılama 👩](https://github.com/ageitgey/face_recognition)
+- [Yüzden duygu ve cinsiyet algılama 😇](https://github.com/DiaaZiada/Faces)
+- [Person-Detection-and-Tracking 🕵️‍](https://github.com/ambakick/Person-Detection-and-Tracking)
+- [TensorFlow Object Counting API 🔢](https://github.com/ahmetozlu/tensorflow_object_counting_api)
+- [DeepLeague - Lol AI](https://github.com/farzaa/DeepLeague)
 
 ### Eski Çalışma Kayıtları
 
