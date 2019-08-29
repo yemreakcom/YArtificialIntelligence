@@ -39,8 +39,9 @@ Kariyer hedefi için olmazsa olmaz olan kurstur. 🚀
 
 ## Takip Edilmesi Gereken Kişiler veya Topluluklar
 
-- [Siraj Raval 🤵🌟](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
-- [Nabih Ibrahim Bawazir - LinkedIn 🤵](https://www.linkedin.com/in/nabihbawazir/detail/recent-activity/shares/)
+- [Siraj Raval 🤵🌟 - Youtube](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+- [Siraj Raval 🤵🌟 - Github](https://github.com/llSourcell)
+- [Nabih Ibrahim Bawazir 🤵 - LinkedIn](https://www.linkedin.com/in/nabihbawazir/detail/recent-activity/shares/)
 - [Deep Learning Türkiye ☪](https://medium.com/deep-learning-turkiye)
 
 ## Yönlendirici ve Eğitici aynaklar
@@ -59,6 +60,7 @@ Başkaların yapmış olduğu çalışan modeller 🤖
 - [Yüz algılama 👩](https://github.com/ageitgey/face_recognition)
 - [Yüzden duygu ve cinsiyet algılama 😇](https://github.com/DiaaZiada/Faces)
 - [Person-Detection-and-Tracking 🕵️‍](https://github.com/ambakick/Person-Detection-and-Tracking)
+- [Multi Object Tracking 🔢](https://github.com/jguoaj/multi-object-tracking)
 - [TensorFlow Object Counting API 🔢](https://github.com/ahmetozlu/tensorflow_object_counting_api)
 - [DeepLeague - Lol AI](https://github.com/farzaa/DeepLeague)
 
