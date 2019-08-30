@@ -52,6 +52,7 @@ Kariyer hedefi için olmazsa olmaz olan kurstur. 🚀
 - [Machine learning mastery]
 - [Tensorflow vs PyTorch, Nereden Başlanmalı][tensorflow vs pytorch]
 - [Keras Kursu][keras ~ datacamp]
+- [How to Use Google Colaboratory for Video Processing](https://dzone.com/articles/how-to-use-google-colaboratory-for-video-processin)
 
 ## Yapılmış Model Çalışmaları
 
