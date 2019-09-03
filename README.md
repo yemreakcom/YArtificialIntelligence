@@ -1,10 +1,10 @@
-# YArtificalIntelligent <!-- omit in toc -->
+# 🧠 YArtificalIntelligent <!-- omit in toc -->
 
 Makine öğrenimi 👨‍🏫💻, Sinir Ağları 🕸 ve Deep Learning 🧠 üzerine çalışmalarım.
 
 > Ek bir **güncel** kaynak için [DeepLearningNotes 💫](https://github.com/asmaamirkhan/DeepLearningNotes) _repository_'isine bakabilirsin.
 
-## Açıklama
+## 🗽 Açıklama
 
 Kategorilenmiş notlarım hakkında:
 
@@ -19,7 +19,7 @@ Kategorilenmiş notlarım hakkında:
 | [Kişisel Notlar 👨‍🏫](Ki%C5%9Fisel%20Notlar) | Kişisel Notlar                                         |
 | [Deeplearning.ai 🧠](DeepLearning.ai)         | Coursera Deeplearning.ai kursu hakkında aldığım notlar |
 
-## Yapay Zeka için Giriş
+## 🚶‍ Yapay Zeka için Giriş
 
 Motive edici ve bilgilendirici belgeseli [buradan][Yapay zeka belgeseli] izleyebilirsin.
 
@@ -30,7 +30,7 @@ Motive edici ve bilgilendirici belgeseli [buradan][Yapay zeka belgeseli] izleyeb
 [Hackerrank]: https://www.hackerrank.com/domains/ai
 [Deeplearning yapay zeka uygulması 2019]: https://medium.com/deep-learning-turkiye/2019-yapay-zeka-e%C4%9Fitim-ve-uygulama-program%C4%B1-add138988809
 
-## Sık Kullanılan Frameworkler
+## ⭐ Sık Kullanılan Frameworkler
 
 | Framework  | Tercih Sebebi                               |
 | ---------- | ------------------------------------------- |
@@ -39,7 +39,7 @@ Motive edici ve bilgilendirici belgeseli [buradan][Yapay zeka belgeseli] izleyeb
 
 > Her ikisi de **Open Source** frameworklerdir.
 
-### Uygun Framework Seçimi Nasıl Olur
+### 🤔 Uygun Framework Seçimi Nasıl Olur
 
 - En kolay programlanabilir ve geliştirilebilir olması lazımdır
 - Hızlı çalışması lazımdır
@@ -49,7 +49,7 @@ Motive edici ve bilgilendirici belgeseli [buradan][Yapay zeka belgeseli] izleyeb
 
 > Detaylar için [TensorFlow or Keras? Which one should I learn?](https://medium.com/implodinggradients/tensorflow-or-keras-which-one-should-i-learn-5dd7fa3f9ca0) yazısına bakabilirsin.
 
-## Destek ve İletişim
+## 💖 Destek ve İletişim
 
 **The [MIT License](https://choosealicense.com/licenses/mit/) &copy; Yunus Emre Ak**
 
