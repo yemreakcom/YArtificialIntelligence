@@ -2,12 +2,6 @@
 
 ⚠ Kişisel çevirileri içerir.
 
-## İçerikler <!-- omit in toc -->
-
-- [Eğitim Süreci](#E%C4%9Fitim-S%C3%BCreci)
-  - [Convolutional Neural Network](#Convolutional-Neural-Network)
-  - [Resudial Network](#Resudial-Network)
-
 ## Eğitim Süreci
 
 ### Convolutional Neural Network

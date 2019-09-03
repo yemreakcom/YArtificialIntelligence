@@ -1,15 +1,5 @@
 # Logistic Regression <!-- omit in toc -->
 
-## İçerikler <!-- omit in toc -->
-
-- [Temel Hiyerarşi](#temel-hiyerar%c5%9fi)
-- [Kavramlar](#kavramlar)
-  - [Learning Rate](#learning-rate)
-- [Grafik Çizdirme](#grafik-%c3%87izdirme)
-  - [Tek grafik çizdirm](#tek-grafik-%c3%a7izdirm)
-  - [Çoklu Grafik Çizdirme](#%c3%87oklu-grafik-%c3%87izdirme)
-  - [Deeplearning Frameworks](#deeplearning-frameworks)
-
 ## Temel Hiyerarşi
 
 - Train, test verileri alınır

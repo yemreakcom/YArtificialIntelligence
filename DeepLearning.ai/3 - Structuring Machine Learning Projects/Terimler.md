@@ -2,15 +2,6 @@
 
 ⚠ Kişisel çevirileri içerir.
 
-## İçerikler <!-- omit in toc -->
-
-- [Eğitim Süreci](#e%c4%9fitim-s%c3%bcreci)
-- [Eğitim Kümeleri](#e%c4%9fitim-k%c3%bcmeleri)
-- [Eğitim Analizi](#e%c4%9fitim-analizi)
-- [Öğrenimi Aktarma](#%c3%96%c4%9frenimi-aktarma)
-- [Eğitim Yaklaşımları](#e%c4%9fitim-yakla%c5%9f%c4%b1mlar%c4%b1)
-- [Faydalı Olabilecek Kaynaklar](#faydal%c4%b1-olabilecek-kaynaklar)
-
 ## Eğitim Süreci
 
 | Terim           | Açıkama                         |

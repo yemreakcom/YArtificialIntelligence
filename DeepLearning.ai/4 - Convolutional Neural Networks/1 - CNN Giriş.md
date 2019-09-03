@@ -1,11 +1,5 @@
 # CNN Giriş <!-- omit in toc -->
 
-## İçerikler <!-- omit in toc -->
-
-- [CNN Örnekleri](#cnn-%c3%96rnekleri)
-- [Kenar Algılama (Filtreleme işlemleri)](#kenar-alg%c4%b1lama-filtreleme-i%c5%9flemleri)
-- [CNN Filtreleme Siteleri](#cnn-filtreleme-siteleri)
-
 ## CNN Örnekleri
 
 | Terim                 | Türkçe                 | Örnek                              |

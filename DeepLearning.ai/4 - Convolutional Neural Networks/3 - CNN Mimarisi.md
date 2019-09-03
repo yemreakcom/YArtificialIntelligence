@@ -1,17 +1,5 @@
 # CNN Mimarisi <!-- omit in toc -->
 
-## İçerikler <!-- omit in toc -->
-
-- [CNN Notasyonu](#cnn-notasyonu)
-- [ConvNet](#convnet)
-  - [ConvNet Hyperparametreleri](#convnet-hyperparametreleri)
-- [ConvNet Örneği](#convnet-%c3%96rne%c4%9fi)
-- [Pooling Layer](#pooling-layer)
-  - [Max Pooling](#max-pooling)
-- [Neural Network Örneği](#neural-network-%c3%96rne%c4%9fi)
-  - [NN'de Katman Tablosu](#nnde-katman-tablosu)
-- [Matematiksel Notasyon](#matematiksel-notasyon)
-
 ## CNN Notasyonu
 
 ![](../../res/cnn_architecture_notation.png)

@@ -1,15 +1,5 @@
 # Sık Kullanılan CNN Modelleri <!-- omit in toc -->
 
-## İçerikler <!-- omit in toc -->
-
-- [ResNet (Resudial Network)](#ResNet-Resudial-Network)
-  - [Neden ResNet](#Neden-ResNet)
-  - [Eğitim Grafiği (Loss)](#E%C4%9Fitim-Grafi%C4%9Fi-Loss)
-  - [ResNet vs PlainNet](#ResNet-vs-PlainNet)
-  - [ResNet için Önemli Husular](#ResNet-i%C3%A7in-%C3%96nemli-Husular)
-- [1 x 1 Convolutional Nedir ve Neden Yapılır](#1-x-1-Convolutional-Nedir-ve-Neden-Yap%C4%B1l%C4%B1r)
-- [Inception Network](#Inception-Network)
-
 ## ResNet (Resudial Network)
 
 - Aktivasyon sonucu diğer katmana aktarır ve ekler. (`+`)

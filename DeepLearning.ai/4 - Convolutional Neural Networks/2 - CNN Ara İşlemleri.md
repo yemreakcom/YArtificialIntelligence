@@ -1,15 +1,5 @@
 # CNN Ara İşlemleri <!-- omit in toc -->
 
-## İçerikler <!-- omit in toc -->
-
-- [Convoluiton İşlemlerindeki Sorunlar](#convoluiton-%c4%b0%c5%9flemlerindeki-sorunlar)
-- [Padding](#padding)
-- [Convolution Türleri](#convolution-t%c3%bcrleri)
-- [Stride](#stride)
-- [3D (Renkli Resimler) için Convolution](#3d-renkli-resimler-i%c3%a7in-convolution)
-  - [Çoklu Filtre Kullanımı](#%c3%87oklu-filtre-kullan%c4%b1m%c4%b1)
-  - [Tek katmanlı CNN Mimarisi](#tek-katmanl%c4%b1-cnn-mimarisi)
-
 ## Convoluiton İşlemlerindeki Sorunlar
 
 - Kenarlardaki pixeller çok a kullanılır
