@@ -83,6 +83,10 @@ Başkaların yapmış olduğu çalışan modeller 🤖
 - [Improving of Personal Educational Content Using]
 - [Machine Learning Model for Analyzing Learning]
 
+## Karışık
+
+- [High level network definitions with pre-trained weights in TensorFlow](https://github.com/taehoonlee/tensornetss)
+
 <!-- Yönlendirici ve Eğiti Kaynaklar -->
 
 [ml cheat sheet]: ../res%2Fmicrosoft-machine-learning-algorithm-cheat-sheet-v7.pdf
