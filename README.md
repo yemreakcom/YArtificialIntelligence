@@ -41,7 +41,7 @@ Motive edici ve bilgilendirici belgeseli [buradan][Yapay zeka belgeseli] izleyeb
 
 > Her ikisi de **Open Source** frameworklerdir.
 
-### 🤔 Uygun Framework Seçimi Nasıl Olur
+## 🤔 Uygun Framework Seçimi Nasıl Olur
 
 - En kolay programlanabilir ve geliştirilebilir olması lazımdır
 - Hızlı çalışması lazımdır
