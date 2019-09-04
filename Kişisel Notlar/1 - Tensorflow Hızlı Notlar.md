@@ -1,5 +1,13 @@
 # Tensorflow Hızlı Notlar <!-- omit in toc -->
 
+## İçerikler <!-- omit in toc -->
+
+- [Verileri Düzenleme](#Verileri-D%C3%BCzenleme)
+- [Tensorflow Ortamı Tanımlama](#Tensorflow-Ortam%C4%B1-Tan%C4%B1mlama)
+- [Temel Tanımlamalar](#Temel-Tan%C4%B1mlamalar)
+- [Kod Parçaları](#Kod-Par%C3%A7alar%C4%B1)
+
+
 ## Verileri Düzenleme
 
 <details>

@@ -1,5 +1,16 @@
 # Numpy <!-- omit in toc -->
 
+## İçerikler <!-- omit in toc -->
+
+- [Matrix İşlemleri](#matrix-%c4%b0%c5%9flemleri)
+- [Jupyter Notları](#jupyter-notlar%c4%b1)
+- [Temel Özellikleri](#temel-%c3%96zellikleri)
+- [Temel Fonksiyonlar](#temel-fonksiyonlar)
+- [IF-Else Yapısı](#if-else-yap%c4%b1s%c4%b1)
+  - [One IF-ELIF](#one-if-elif)
+  - [Multiple IF-ELIFs](#multiple-if-elifs)
+- [Harici Kaynaklar](#harici-kaynaklar)
+
 ## Matrix İşlemleri
 
 > `A, B, C` gibi semboller matrix belirtir.

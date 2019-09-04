@@ -1,5 +1,17 @@
 # Veri Kümeleri <!-- omit in toc -->
 
+## İçerikler <!-- omit in toc -->
+
+> `HOME` tuşu ile yukarı yönlenebilrsiniz.
+
+- [Veri Kümeleri İndirme Araçları](#veri-k%c3%bcmeleri-%c4%b0ndirme-ara%c3%a7lar%c4%b1)
+- [Tensorflow Modelleri İçin Veriler](#tensorflow-modelleri-%c4%b0%c3%a7in-veriler)
+- [Linkler](#linkler)
+  - [Resim Veri Kümeleri](#resim-veri-k%c3%bcmeleri)
+  - [Verilerdeki Etiketi Kaldırma](#verilerdeki-etiketi-kald%c4%b1rma)
+  - [Karma Veri Kümeleri](#karma-veri-k%c3%bcmeleri)
+- [Referanslar](#referanslar)
+
 Yapay zeka için olmazsa olmaz olan veri kümeleri (dataset) hakkında bilgiler içermektedir.
 
 ## Veri Kümeleri İndirme Araçları
