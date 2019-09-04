@@ -1,9 +1,5 @@
 # 🧠 YArtificalIntelligent <!-- omit in toc -->
 
-Makine öğrenimi 👨‍🏫💻, Sinir Ağları 🕸 ve Deep Learning 🧠 üzerine çalışmalarım.
-
-> Ek bir **güncel** kaynak için [DeepLearningNotes 💫](https://github.com/asmaamirkhan/DeepLearningNotes) _repository_'isine bakabilirsin.
-
 ## 🗽 Açıklama
 
 Kategorilenmiş notlarım hakkında:
@@ -19,6 +15,7 @@ Kategorilenmiş notlarım hakkında:
 | [Kişisel Notlar 👨‍🏫](Ki%C5%9Fisel%20Notlar) | Kişisel Notlar                                         |
 | [Deeplearning.ai 🧠](DeepLearning.ai)         | Coursera Deeplearning.ai kursu hakkında aldığım notlar |
 
+> Ek bir **güncel** kaynak için [DeepLearningNotes 💫](https://github.com/asmaamirkhan/DeepLearningNotes) _repository_'isine bakabilirsin.
 
 ## 🚶‍ Yapay Zeka için Giriş
 
