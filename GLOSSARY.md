@@ -1,2 +1,2 @@
-## Data Science
+## Data
 Veri Bilimi
