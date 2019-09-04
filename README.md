@@ -1,7 +1,7 @@
 # 🧠 YArtificalIntelligent <!-- omit in toc -->
 
 ---
-description: Makine öğrenimi 👨‍🏫💻, Sinir Ağları 🕸 ve Deep Learning 🧠 üzerine çalışmalarım.
+Makine öğrenimi 👨‍🏫💻, Sinir Ağları 🕸 ve Deep Learning 🧠 üzerine çalışmalarım.
 ---
 
 ## 🗽 Açıklama
