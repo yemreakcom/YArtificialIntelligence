@@ -1,2 +1,0 @@
-# Kişisel Notlar
-
