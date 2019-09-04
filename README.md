@@ -1,7 +1,7 @@
 # 🧠 YArtificalIntelligent <!-- omit in toc -->
 
 ---
-Makine öğrenimi 👨‍🏫💻, Sinir Ağları 🕸 ve Deep Learning 🧠 üzerine çalışmalarım.
+description: This is a short description of my page
 ---
 
 ## 🗽 Açıklama
