@@ -2,7 +2,7 @@
 description: "Makine öğrenimi 👨‍🏫💻, Sinir Ağları 🕸 ve Deep Learning 🧠 üzerine çalışmalarım."
 ---
 
-# 🧠 YArtificalIntelligent <!-- omit in toc -->
+# 🧠 Yapay Zeka
 
 ## 🗽 Açıklama
 
