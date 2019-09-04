@@ -1,9 +1,6 @@
 # Summary
 
 - [🧠 Yapay Zeka](./README.md)
-
-### İçerikler
-
 - [Cheet Sheets](./Cheet%20Sheets/README.md)
 - [DeepLearning.ai](./DeepLearning.ai/README.md)
   - [1 - Neural Networks and Deep Learning](./DeepLearning.ai/1%20-%20Neural%20Networks%20and%20Deep%20Learning)
@@ -44,7 +41,3 @@
   - [2 - Veri Kümeleri](./Ki%C5%9Fisel%20Notlar/2%20-%20Veri%20K%C3%BCmeleri.md)
   - [X - Türkçe Yapay Zeka Kaynakları](./Ki%C5%9Fisel%20Notlar/X%20-%20T%C3%BCrk%C3%A7e%20Yapay%20Zeka%20Kaynaklar%C4%B1.md)
   - [X1 - Yapay Zeka Notları](./Ki%C5%9Fisel%20Notlar/X1%20-%20Yapay%20Zeka%20Notlar%C4%B1.md)
-
-----
-
-* [Last part without title](part3/title.md)
