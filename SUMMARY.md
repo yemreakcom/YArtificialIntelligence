@@ -1,4 +1,4 @@
-# [🧠 Yapay Zeka](./README.md)
+# 🧠 Yapay Zeka
 
 - [Cheet Sheets](./Cheet%20Sheets/README.md)
 - [DeepLearning.ai](./DeepLearning.ai/README.md)
