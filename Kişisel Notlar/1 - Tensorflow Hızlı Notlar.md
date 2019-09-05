@@ -1,27 +1,15 @@
 # Tensorflow Hızlı Notlar <!-- omit in toc -->
 
-## İçerikler <!-- omit in toc -->
-
-- [Verileri Düzenleme](#Verileri-D%C3%BCzenleme)
-- [Tensorflow Ortamı Tanımlama](#Tensorflow-Ortam%C4%B1-Tan%C4%B1mlama)
-- [Temel Tanımlamalar](#Temel-Tan%C4%B1mlamalar)
-- [Kod Parçaları](#Kod-Par%C3%A7alar%C4%B1)
-
-
 ## Verileri Düzenleme
 
-<details>
-<summary>Veriyi tek boyuta alma</summary>
+### Veriyi tek boyuta alma
 
 ```py
 X_train_flatten = X_train_orig.reshape(X_train_orig.shape[0], -1).T
 X_test_flatten = X_test_orig.reshape(X_test_orig.shape[0], -1).T
 ```
 
-</details>
-
-<details>
-<summary>Normalize etme</summary>
+### Normalize etme
 
 ```py
 # . olma sebebi float olmasını sağlamak
@@ -29,20 +17,14 @@ X_train = X_train_flatten/255.
 X_test = X_test_flatten/255.
 ```
 
-</details>
-
-<details>
-<summary>Onehot yapısına çevirme</summary>
+### Onehot yapısına çevirme
 
 ```py
 Y_train = convert_to_one_hot(Y_train_orig, 6)
 Y_test = convert_to_one_hot(Y_test_orig, 6)
 ```
 
-</details>
-
-<details>
-<summary>Boyutları bastırma</summary>
+### Boyutları bastırma
 
 ```py
 print ("number of training examples = " + str(X_train.shape[1]))
@@ -53,14 +35,9 @@ print ("X_test shape: " + str(X_test.shape))
 print ("Y_test shape: " + str(Y_test.shape))
 ```
 
-</details>
-
 ## Tensorflow Ortamı Tanımlama
 
-</details>
-
-<details>
-<summary>Placeholder tanımlama</summary>
+### Placeholder tanımlama
 
 ```py
 # GRADED FUNCTION: create_placeholders
@@ -90,10 +67,7 @@ def create_placeholders(n_x, n_y):
     return X, Y
 ```
 
-</details>
-
-<details>
-<summary>Parametreleri tanımlama</summary>
+### Parametreleri tanımlama
 
 ```py
 # GRADED FUNCTION: initialize_parameters
@@ -133,10 +107,7 @@ def initialize_parameters():
     return parameters
 ```
 
-</details>
-
-<details>
-<summary>Forward Propagation</summary>
+### Forward Propagation
 
 ```py
 # GRADED FUNCTION: forward_propagation
@@ -173,10 +144,7 @@ def forward_propagation(X, parameters):
     return Z3
 ```
 
-</details>
-
-<details>
-<summary>Cost hesaplama</summary>
+### Cost hesaplama
 
 ```py
 # GRADED FUNCTION: compute_cost
@@ -204,10 +172,7 @@ def compute_cost(Z3, Y):
     return cost
 ```
 
-</details>
-
-<details>
-<summary>Modeli oluşturma</summary>
+### Modeli oluşturma
 
 ```py
 def model(X_train, Y_train, X_test, Y_test, learning_rate = 0.0001,
@@ -320,14 +285,11 @@ def model(X_train, Y_train, X_test, Y_test, learning_rate = 0.0001,
         return parameters
 ```
 
-</details>
-
 ## Temel Tanımlamalar
 
 Tensorflow değişkenleri **computation graph** olarak tanımlanır, oturum çalıştırılmadan (`sess.run(<değişken>)`) hesaplanmaz.
 
-<details>
-<summary>Değişken tanımlamaları</summary>
+### Değişken tanımlamaları
 
 ```py
 # Değişken değerleri tanımlama
@@ -360,10 +322,7 @@ one_hot_matrix = tf.one_hot(indices=labels, depth=C, axis=0)
 
 ```
 
-</details>
-
-<details>
-<summary>Çalıştırma İşlemleri</summary>
+### Çalıştırma İşlemleri
 
 ```py
 sess = tf.Session()
@@ -390,10 +349,7 @@ _ , c = sess.run([optimizer, cost], feed_dict={X: minibatch_X, Y: minibatch_Y})
 
 ```
 
-</details>
-
-<details>
-<summary>Matematiksel İşlemler</summary>
+### Matematiksel İşlemler
 
 ```py
 # Y = W.X + b
@@ -402,12 +358,9 @@ Y = tf.matmul(W, X)
 A = tf.nn.relu()
 ```
 
-</details>
-
 ## Kod Parçaları
 
-<details>
-<summary>Giriş için kod parçası</summary>
+### Giriş için kod parçası
 
 ```py
 # X'e aktarılacak veriler (x0, x1, x2)
@@ -465,10 +418,7 @@ for i in range(100000):
 session.run(w)
 ```
 
-</details>
-
-<details>
-<summary>Lineer Fonksiyon</summary>
+### Lineer Fonksiyon
 
 ```py
 # GRADED FUNCTION: linear_function
@@ -505,10 +455,7 @@ def linear_function():
     return result
 ```
 
-</details>
-
-<details>
-<summary>Sigmoid</summary>
+### Sigmoid
 
 ```py
 # GRADED FUNCTION: sigmoid
@@ -542,10 +489,7 @@ def sigmoid(z):
     return result
 ```
 
-</details>
-
-<details>
-<summary>Computing Cost</summary>
+### Computing Cost
 
 ```py
 # GRADED FUNCTION: cost
@@ -587,5 +531,3 @@ def cost(logits, labels):
 
     return cost
 ```
-
-</details>
