@@ -1,6 +1,15 @@
 # Summary
 
 - [🧠 Yapay Zeka](./README.md)
+  - [Araştırmalarım](./Ara%C5%9Ft%C4%B1rmalar%C4%B1m)
+    - [Resim Üzerindeki Fotoşoplu Alanları Bulma](./Ara%C5%9Ft%C4%B1rmalar%C4%B1m/Resim%20%C3%9Czerindeki%20Foto%C5%9Foplu%20Alanlar%C4%B1%20Bulma/README.md)
+      - [0 - Araştırma Notları](./Ara%C5%9Ft%C4%B1rmalar%C4%B1m/Resim%20%C3%9Czerindeki%20Foto%C5%9Foplu%20Alanlar%C4%B1%20Bulma/0%20-%20Ara%C5%9Ft%C4%B1rma%20Notlar%C4%B1.md)
+      - [1 - Machine Learning](./Ara%C5%9Ft%C4%B1rmalar%C4%B1m/Resim%20%C3%9Czerindeki%20Foto%C5%9Foplu%20Alanlar%C4%B1%20Bulma/1%20-%20Machine%20Learning.md)
+      - [2 - Basit Olarak Resimdeki Değişikliği Algılama](./Ara%C5%9Ft%C4%B1rmalar%C4%B1m/Resim%20%C3%9Czerindeki%20Foto%C5%9Foplu%20Alanlar%C4%B1%20Bulma/2%20-%20Basit%20Olarak%20Resimdeki%20De%C4%9Fi%C5%9Fikli%C4%9Fi%20Alg%C4%B1lama.md)
+      - [3 - Error Level Analysis](./Ara%C5%9Ft%C4%B1rmalar%C4%B1m/Resim%20%C3%9Czerindeki%20Foto%C5%9Foplu%20Alanlar%C4%B1%20Bulma/3%20-%20Error%20Level%20Analysis.md)
+      - [4 - Fotoşop Algılama](./Ara%C5%9Ft%C4%B1rmalar%C4%B1m/Resim%20%C3%9Czerindeki%20Foto%C5%9Foplu%20Alanlar%C4%B1%20Bulma/4%20-%20Foto%C5%9Fop%20Alg%C4%B1lama.md)
+      - [src](./Ara%C5%9Ft%C4%B1rmalar%C4%B1m/Resim%20%C3%9Czerindeki%20Foto%C5%9Foplu%20Alanlar%C4%B1%20Bulma/src/README.md)
+        - [Tensorflow](./Ara%C5%9Ft%C4%B1rmalar%C4%B1m/Resim%20%C3%9Czerindeki%20Foto%C5%9Foplu%20Alanlar%C4%B1%20Bulma/src/Tensorflow.md)
   - [Cheet Sheets](./Cheet%20Sheets/README.md)
   - [DeepLearning.ai](./DeepLearning.ai/README.md)
     - [1 - Neural Networks and Deep Learning](./DeepLearning.ai/1%20-%20Neural%20Networks%20and%20Deep%20Learning)
