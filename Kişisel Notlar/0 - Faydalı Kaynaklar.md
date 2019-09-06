@@ -64,6 +64,7 @@ Başkaların yapmış olduğu çalışan modeller 🤖
 - [Multi Object Tracking 🔢](https://github.com/jguoaj/multi-object-tracking)
 - [TensorFlow Object Counting API 🔢](https://github.com/ahmetozlu/tensorflow_object_counting_api)
 - [DeepLeague - Lol AI](https://github.com/farzaa/DeepLeague)
+- [Instagram Bot With AI](https://instabotai.com/)
 
 ### Eski Çalışma Kayıtları
 
