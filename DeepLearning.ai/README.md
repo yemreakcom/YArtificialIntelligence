@@ -1,3 +1,7 @@
-# Deeplearning.ai
+---
+description: Coursera Deeplearning.ai 🧠 kursuna çalışırkan aldığım notlar.
+---
 
-Coursera Deeplearning.ai 🧠 çalışırkan aldığım notlar.
+# 🤿 Deeplearning.ai
+
+
