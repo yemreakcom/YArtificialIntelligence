@@ -1,7 +1,5 @@
 ---
-description: "Araştırmalar sonucunda tam olarak istenilen model yapısı oluşturulamamıştır 😥
-Kaynak kodlar `src` dizinindedir
-"
+description: "Araştırmalar sonucunda tam olarak istenilen model yapısı oluşturulamamıştır 😥"
 ---
 
 # Resim Üzerindeki Fotoşoplu Alanları Bulma
