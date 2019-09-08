@@ -1,9 +1,9 @@
 # PDFs
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 
-## Harici Dosyalar
+## 🔗 Harici Dosyalar
 
 - [0 - Python Basics with Numpy (optional assignment).pdf](./0%20-%20Python%20Basics%20with%20Numpy%20%28optional%20assignment%29.pdf)
 - [1 - Logistic Regression with a Neural Network.pdf](./1%20-%20Logistic%20Regression%20with%20a%20Neural%20Network.pdf)
@@ -13,5 +13,5 @@
 - [X - Sinir Ağları ve Derin Öğrenme.pdf](./X%20-%20Sinir%20A%C4%9Flar%C4%B1%20ve%20Derin%20%C3%96%C4%9Frenme.pdf)
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 

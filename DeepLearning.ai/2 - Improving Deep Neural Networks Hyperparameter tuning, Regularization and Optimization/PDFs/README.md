@@ -1,9 +1,9 @@
 # PDFs
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 
-## Harici Dosyalar
+## 🔗 Harici Dosyalar
 
 - [1 - Initialization.pdf](./1%20-%20Initialization.pdf)
 - [2 - Regularization.pdf](./2%20-%20Regularization.pdf)
@@ -12,5 +12,5 @@
 - [5 - Tensorflow Tutorial.pdf](./5%20-%20Tensorflow%20Tutorial.pdf)
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 
