@@ -55,6 +55,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🌌 Değişikler
 
+* ✨ Diğer dökümanların linkleri daha görsel hale getirildi. [Yunus Emre]
+
 * Update SUMMARY.md. [Yunus Emre]
 
 * Update README.md. [Yunus Emre]
@@ -106,8 +108,6 @@ description: Sitede neler olup bittiğinin raporudur.
 * Başlık ismi düzeltildi 🦢 [Yunus Emre]
 
 ### 📡 Diğerler
-
-* ✨ Diğer dökümanların linkleri daha görsel hale getirildi. [Yunus Emre]
 
 * 👷‍♂️ Yapı yeniden tasarlandı. [Yunus Emre]
 
