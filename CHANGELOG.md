@@ -105,6 +105,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 📡 Diğerler
 
+* 👷‍♂️ Yapı yeniden tasarlandı. [Yunus Emre]
+
 * 🎈 Yapay zeka notları olması gerektiği yerde. [Yunus Emre]
 
 * Instagram Bot With AI. [Yunus Emre]
