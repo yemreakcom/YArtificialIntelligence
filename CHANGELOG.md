@@ -107,6 +107,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 📡 Diğerler
 
+* ✨ Diğer dökümanların linkleri daha görsel hale getirildi. [Yunus Emre]
+
 * 👷‍♂️ Yapı yeniden tasarlandı. [Yunus Emre]
 
 * 🎈 Yapay zeka notları olması gerektiği yerde. [Yunus Emre]
