@@ -85,6 +85,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🗽 Düzeltmeler
 
+* 👨‍🔧 Arama Butonu linki düzeltildi. [Yunus Emre]
+
 * Ufak düzeltme. [Yunus Emre]
 
 * ✨ Temizlik ve düzenleme. [Yunus Emre]
