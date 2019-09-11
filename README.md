@@ -6,7 +6,7 @@ description: "Makine öğrenimi 👨‍🏫💻, Sinir Ağları 🕸 ve Deep Lea
 
 ## 🗽 Hoş Geldin
 
-- Sağ üstteki [🔍 Arama Buton](https://wiki.yemreak.com/?q=)'nu kullanmayı asla asla ihmal etme
+- Sağ üstteki [🔍 Arama Buton](https://ai.yemreak.com/?q=)'nu kullanmayı asla asla ihmal etme
 - En son gelen güncellemeleri [✨ Commits](https://github.com/yedhrab/YArtificalIntelligent/commits/master) alanından takip edebilirsin
 - Tavsiyelerin veya hata tespitlerin varsa [🦋 Issue](https://github.com/yedhrab/YArtificalIntelligent/issues) açabilirsin
 - 🌊 Yeni bilgiler öğrenmemle birlikle güncellenecektir
