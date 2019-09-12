@@ -19,6 +19,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 * 🧪 Deneme amaçlı. [Yunus Emre]
 
+* 🧪 Deneme amaçlı. [Yunus Emre]
+
 * 👓 Awesome alanı daha belirgin yapıldı. [Yunus Emre]
 
 
