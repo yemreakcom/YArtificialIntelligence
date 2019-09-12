@@ -9,6 +9,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🚀 Yenilikler
 
+* 🐞 Aktarma sorunu oluşturduğundan kaldırıldı (geçici) [Yunus Emre]
+
 * 👓 Awesome alanları eklendi. [Yunus Emre]
 
 ### 📡 Diğerler
