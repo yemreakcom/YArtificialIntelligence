@@ -5,7 +5,7 @@ description: Sitede neler olup bittiğinin raporudur.
 # Changelog
 
 
-## ✨ Güncel
+## 1.0 (2019-09-11)
 
 ### 🚀 Yenilikler
 
