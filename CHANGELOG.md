@@ -11,6 +11,10 @@ description: Sitede neler olup bittiğinin raporudur.
 
 * 👓 Awesome alanları eklendi. [Yunus Emre]
 
+### 📡 Diğerler
+
+* 👓 Awesome alanı daha belirgin yapıldı. [Yunus Emre]
+
 
 ## 1.0 (2019-09-11)
 
