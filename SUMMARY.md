@@ -5,6 +5,7 @@
 - [🧠 Yapay Zeka](./README.md)
   - [🚀 Awesome](./0%20-%20Awesome/README.md)
     - [🧠 Awesome Artificial Intelligence (AI)](./0%20-%20Awesome/Awesome%20Artifical%20Intelligent.md)
+    - [👨‍🏫 Awesome Machine Learning](./0%20-%20Awesome/Awesome%20Machine%20Learning.md)
     - [⚡ Awesome TensorFlow](./0%20-%20Awesome/Awesome%20Tensorflow.md)
   - [🕵️‍ Araştırmalarım](./Ara%C5%9Ft%C4%B1rmalar%C4%B1m/README.md)
     - [Resim Üzerindeki Fotoşoplu Alanları Bulma](./Ara%C5%9Ft%C4%B1rmalar%C4%B1m/Resim%20%C3%9Czerindeki%20Foto%C5%9Foplu%20Alanlar%C4%B1%20Bulma/README.md)
