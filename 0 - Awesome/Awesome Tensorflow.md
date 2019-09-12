@@ -2,7 +2,7 @@
 description: Tensorflow'u tüm detaylarına kadar anlatan dökümanların toplandığı projeyi referans alır 🚀
 ---
 
-# 🚀 Awesome TensorFlow
+# ⚡ Awesome TensorFlow
 
 > [Awesome Tensorflow](https://github.com/jtoy/awesome-tensorflow) çalışamasını referans alır.
 

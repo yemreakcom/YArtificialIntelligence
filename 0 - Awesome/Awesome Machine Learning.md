@@ -2,7 +2,7 @@
 description: Makine öğrenimi konusu tüm detaylarına kadar anlatan dökümanların toplandığı projeyi referans alır 🚀
 ---
 
-# 🚀 Awesome Machine Learning
+# 👨‍🏫 Awesome Machine Learning
 
 > [Awesome Artificial Intelligence (AI)](https://github.com/owainlewis/awesome-artificial-intelligence) çalışamasını referans alır.
 
@@ -27,7 +27,7 @@ Further resources:
 ### Frameworks and Libraries
 <!-- MarkdownTOC depth=4 -->
 
-- [🚀 Awesome Machine Learning](#%F0%9F%9A%80-Awesome-Machine-Learning)
+- [�‍🏫 Awesome Machine Learning](#%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB-Awesome-Machine-Learning)
   - [Table of Contents](#Table-of-Contents)
     - [Frameworks and Libraries](#Frameworks-and-Libraries)
     - [Tools](#Tools)

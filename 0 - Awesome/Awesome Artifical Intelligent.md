@@ -2,7 +2,7 @@
 description: Bir konuyu tüm detaylarına kadar anlatan dökümanların toplandığı projeyi referans alır 🚀
 ---
 
-# 🚀 Awesome Artificial Intelligence (AI)
+# 🧠 Awesome Artificial Intelligence (AI)
 
 > [Awesome Artificial Intelligence (AI)](https://github.com/owainlewis/awesome-artificial-intelligence) çalışamasını referans alır.
 
