@@ -15,6 +15,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 📡 Diğerler
 
+* 🧪 Deneme amaçlı. [Yunus Emre]
+
 * 👓 Awesome alanı daha belirgin yapıldı. [Yunus Emre]
 
 
