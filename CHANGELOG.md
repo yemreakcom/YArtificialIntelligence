@@ -23,6 +23,10 @@ description: Sitede neler olup bittiğinin raporudur.
 
   Diğer derin öğrenme çalışmam aktarıldı
 
+### 🗽 Düzeltmeler
+
+* 🐞 Self-Driving Car Course içeriklerinin gözükmeme sorunu giderildi. [Yunus Emre]
+
 ### 📡 Diğerler
 
 * 🐞 Sorun hala devam etmekte, test amaçlıdı 🧪 [Yunus Emre]
