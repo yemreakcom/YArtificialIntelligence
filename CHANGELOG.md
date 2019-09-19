@@ -25,6 +25,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🌌 Değişikler
 
+* Update README.md. [Yunus Emre]
+
 * Update YTensorflow.pdf. [Yunus Emre]
 
 * Update Tensorflow ile Obje Algılama.md. [Yunus Emre]
