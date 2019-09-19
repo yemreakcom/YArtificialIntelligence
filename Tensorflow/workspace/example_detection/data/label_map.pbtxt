@@ -1,0 +1,14 @@
+item {
+  id: 1
+  name: 'ornek1'
+}
+
+item {
+  id: 2
+  name: 'ornek2'
+}
+
+item {
+  id: 3
+  name: 'ornek3'
+}
