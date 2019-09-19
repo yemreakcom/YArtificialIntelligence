@@ -59,6 +59,7 @@
     - [Türkçe Yapay Zeka Kaynakları](./Ki%C5%9Fisel%20Notlar/X%20-%20T%C3%BCrk%C3%A7e%20Yapay%20Zeka%20Kaynaklar%C4%B1.md)
     - [Yapay Zeka Notları](./Ki%C5%9Fisel%20Notlar/X1%20-%20Yapay%20Zeka%20Notlar%C4%B1.md)
   - [🚗 Self-Driving Car Course](./Self-Driving%20Car%20Course/README.md)
+    - [🗽 Açıklama](./Self-Driving%20Car%20Course/A%C3%A7%C4%B1klama.md)
     - [1. Başlagıç](./Self-Driving%20Car%20Course/1.%20Ba%C5%9Flag%C4%B1%C3%A7/README.md)
     - [2. OpenCV Çizgi Algılama](./Self-Driving%20Car%20Course/2.%20OpenCV%20%C3%87izgi%20Alg%C4%B1lama/README.md)
     - [2.1 OpenCV Orta Çizgiyi Hesaplama](./Self-Driving%20Car%20Course/2.1%20OpenCV%20Orta%20%C3%87izgiyi%20Hesaplama/README.md)
