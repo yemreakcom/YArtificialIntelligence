@@ -2,7 +2,7 @@
 description: Tensorflow modelleri ve onların kullanımı için gerekli talimatlarım
 ---
 
-# 🕵️‍ Tensorflow ile Obje Algılama
+# 🕵️‍ Tensorflow Object Detection API ile Obje Bulma
 
 ## Temel Bilgiler
 

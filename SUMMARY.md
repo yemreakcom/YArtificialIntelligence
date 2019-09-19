@@ -56,7 +56,7 @@
     - [11. Model Kullanımı](./2%20-%20Self-Driving%20Car%20Course/a1.%20Model%20Kullan%C4%B1m%C4%B1/README.md)
     - [12. Kapanış](./2%20-%20Self-Driving%20Car%20Course/a3.%20Kapan%C4%B1%C5%9F/README.md)
   - [🌌 Tensorflow](./3%20-%20Tensorflow/README.md)
-    - [🕵️‍ Tensorflow ile Obje Algılama](./3%20-%20Tensorflow/Tensorflow%20ile%20Obje%20Alg%C4%B1lama.md)
+    - [🕵️‍ Tensorflow Object Detection API ile Obje Bulma](./3%20-%20Tensorflow/Tensorflow%20Object%20Detection%20API%20ile%20Obje%20Bulma.md)
     - [Addons](./3%20-%20Tensorflow/addons/README.md)
     - [Dökümanlar](./3%20-%20Tensorflow/docs/README.md)
       - [Algılama Notları](./3%20-%20Tensorflow/docs/Alg%C4%B1lama%20Notlar%C4%B1.md)
