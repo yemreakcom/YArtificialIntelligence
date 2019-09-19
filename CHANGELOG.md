@@ -21,6 +21,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🌌 Değişikler
 
+* 🗽 İndeksleme yenilendi. [Yunus Emre]
+
 * Update Açıklama.md. [Yunus Emre]
 
 * 🚗 Self-Driving Car Course aktarıldı. [Yunus Emre]
