@@ -29,6 +29,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 📡 Diğerler
 
+* 🚗 Self-Driving Car Course notları güzelleştirildi. [Yunus Emre]
+
 * 🐞 Sorun hala devam etmekte, test amaçlıdı 🧪 [Yunus Emre]
 
 * 🐞 ##'ten #### gelmesinden kaynaklanan hata çözüldü. [Yunus Emre]
