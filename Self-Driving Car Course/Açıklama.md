@@ -2,7 +2,7 @@
 
 Udemy üzerindeki [The Complete Self-Driving Car Course - Applied Deep Learning 🚗](https://www.udemy.com/applied-deep-learningtm-the-complete-self-driving-car-course/) kursu için aldığım notlar.
 
-- Genel python çalışmalarım, oluşturduğum ek notlara [buraya](kaynaklar/Kendi%20Notlar%C4%B1m%20~%20SDC.pdf) tıklayarak ulaşabilirsin.
+- Genel python çalışmalarım, oluşturduğum ek notlara [buraya](res/Kendi%20Notlar%C4%B1m%20~%20SDC.pdf) tıklayarak ulaşabilirsin.
 - Microsoft ML cheat sheet için [buraya](kaynaklar%2Fmicrosoft-machine-learning-algorithm-cheat-sheet-v7.pdf) bakabilirsin.
 
 ## Temel Notlar
@@ -39,7 +39,7 @@ Yol resmindeki şeritleri algılama ve çizgileri oluşturma
 
 - [cizgiler](./2.%20OpenCV%20%C3%87izgi%20Alg%C4%B1lama/cizgiler.py)
 
-![Çizgileri Bulma](kaynaklar/cizgileri_bulma.gif)
+![Çizgileri Bulma](res/cizgileri_bulma.gif)
 
 ## 2.1 OpenCV Orta Çizgiyi Hesaplama
 
@@ -55,7 +55,7 @@ Nokta kümesine uygun optimum referans çizgisini *supervised learning* sistemi 
 - [4. Gradient Descent](./3.%20Makine%20%C3%96%C4%9Frenimi/4.%20Gradient%20Descent.ipynb)
 - [mi](./3.%20Makine%20%C3%96%C4%9Frenimi/mi.py)
 
-![ML1](kaynaklar/ml.gif)
+![ML1](res/ml.gif)
 
 ## 4. Derin Sinir Ağları
 
@@ -75,7 +75,7 @@ Nokta kümesine uygun referans alanı oluşturma
 
 > **Kırmızı** nokta bilinmeyen bir girdiyi temsil eder.
 
-![DNN](kaynaklar/dnn.png)
+![DNN](res/dnn.png)
 
 ## 5. Çoklu Sınıflandırma
 
@@ -91,7 +91,7 @@ Nokta kümesine uygun referans alanı oluşturma
 - [Multiclassification](./5.%20%C3%87oklu%20S%C4%B1n%C4%B1fland%C4%B1rma/Multiclassification.ipynb)
 - [multi_classification](./5.%20%C3%87oklu%20S%C4%B1n%C4%B1fland%C4%B1rma/multi_classification.py)
 
-![MC](kaynaklar/multi_classification.png)
+![MC](res/multi_classification.png)
 
 ## 6. Derin Öğrenme
 
@@ -125,12 +125,12 @@ Nokta kümesine uygun referans alanı oluşturma
 
 - [TrafficSigns](./9.%20Traffik%20%C4%B0%C5%9Faretlerini%20Alg%C4%B1lama/TrafficSigns.ipynb)
 
-## a1. Davranış Klonlama
+## 10. Davranış Klonlama
 
 - [Behavioral_Clonning](./a1.%20Davran%C4%B1%C5%9F%20Klonlama/Behavioral_Clonning.ipynb)
 - [udacity-simulated-model](./a1.%20Davran%C4%B1%C5%9F%20Klonlama/udacity-simulated-model.h5)
 
-## a1. Model Kullanımı
+## 11. Model Kullanımı
 
 - [1-flask-tutorial](./a1.%20Model%20Kullan%C4%B1m%C4%B1/1-flask-tutorial.py)
 - [2-first-drive](./a1.%20Model%20Kullan%C4%B1m%C4%B1/2-first-drive.py)
@@ -142,7 +142,7 @@ Nokta kümesine uygun referans alanı oluşturma
 - [requirements](./a1.%20Model%20Kullan%C4%B1m%C4%B1/requirements.txt)
 - [udacity-simulated-model](./a1.%20Model%20Kullan%C4%B1m%C4%B1/udacity-simulated-model.h5)
 
-## a3. Kapanış
+## 12. Kapanış
 
 - [Behavioral_Clonning](./a3.%20Kapan%C4%B1%C5%9F/Behavioral_Clonning.ipynb)
 - [README](./a3.%20Kapan%C4%B1%C5%9F/README.md)
@@ -150,4 +150,4 @@ Nokta kümesine uygun referans alanı oluşturma
 - [genereted-udacity-simulated-model](./a3.%20Kapan%C4%B1%C5%9F/genereted-udacity-simulated-model.h5)
 - [requirement](./a3.%20Kapan%C4%B1%C5%9F/requirement.bat)
 
-![final](kaynaklar/final.png)
+![final](res/final.png)

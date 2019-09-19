@@ -70,10 +70,9 @@
     - [7. Evirişimli Sinir Ağları](./Self-Driving%20Car%20Course/7.%20Eviri%C5%9Fimli%20Sinir%20A%C4%9Flar%C4%B1/README.md)
     - [8. Polynomal Regresyon](./Self-Driving%20Car%20Course/8.%20Polynomal%20Regresyon/README.md)
     - [9. Traffik İşaretlerini Algılama](./Self-Driving%20Car%20Course/9.%20Traffik%20%C4%B0%C5%9Faretlerini%20Alg%C4%B1lama/README.md)
-    - [a1. Davranış Klonlama](./Self-Driving%20Car%20Course/a1.%20Davran%C4%B1%C5%9F%20Klonlama/README.md)
-    - [Model Usage](./Self-Driving%20Car%20Course/a1.%20Model%20Kullan%C4%B1m%C4%B1/README.md)
-    - [Final](./Self-Driving%20Car%20Course/a3.%20Kapan%C4%B1%C5%9F/README.md)
-    - [kaynaklar](./Self-Driving%20Car%20Course/kaynaklar/README.md)
+    - [10. Davranış Klonlama](./Self-Driving%20Car%20Course/a1.%20Davran%C4%B1%C5%9F%20Klonlama/README.md)
+    - [11. Model Kullanımı](./Self-Driving%20Car%20Course/a1.%20Model%20Kullan%C4%B1m%C4%B1/README.md)
+    - [12. Kapanış](./Self-Driving%20Car%20Course/a3.%20Kapan%C4%B1%C5%9F/README.md)
 
 <!--Index-->
 
