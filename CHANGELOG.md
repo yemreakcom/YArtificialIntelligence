@@ -41,6 +41,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 📡 Diğerler
 
+* 🕵️‍ Tensorflow Object Detection API ile Obje Bulma. [Yunus Emre]
+
 * ✨ Self-Driving Car Course notları güzelleştirildi. [Yunus Emre]
 
 * ✨ Self-Driving Car Course notları güzelleştirildi. [Yunus Emre]

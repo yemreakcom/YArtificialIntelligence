@@ -4,6 +4,8 @@ description: Tensorflow modelleri ve onların kullanımı için gerekli talimatl
 
 # 🕵️‍ Tensorflow Object Detection API ile Obje Bulma
 
+![](../res/tensorflow_img.png)
+
 ## Temel Bilgiler
 
 Bu notların kitaplaştırılmış haline 📕 [buradan](.%5Cdocs%5CYTensorflow.pdf) erişebilirsin.
