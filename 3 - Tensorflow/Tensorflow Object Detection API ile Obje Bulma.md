@@ -8,7 +8,7 @@ description: Tensorflow modelleri ve onların kullanımı için gerekli talimatl
 
 ## Temel Bilgiler
 
-Bu notların kitaplaştırılmış haline 📕 [buradan](.%5Cdocs%5CYTensorflow.pdf) erişebilirsin.
+Bu notların PDF haline 📕 [buradan](.%5Cdocs%5CYTensorflow.pdf) erişebilirsin.
 
 - Python dili üzerinde makine öğrenimi gibi işlemler için Google tarafından sunulan kütüphanedir.
 - Yabancı Kaynaklar: [📺](https://youtu.be/COlbP62-B-U) [📄](https://buildmedia.readthedocs.org/media/pdf/tensorflow-object-detection-api-tutorial/latest/tensorflow-object-detection-api-tutorial.pdf)
