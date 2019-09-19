@@ -1,0 +1,23 @@
+# Test edilmesi için gereken uygulama (Authonomus Mode'da çalışır)
+# https://github.com/yedehrab/self-driving-car-sim
+
+# Ortam oluşturulması
+# conda create --name <ortam_ismi>
+# conda activate <ortam_ismi>
+
+# Örnek ortam oluşturma:
+# conda create --name myenv
+# conda activate myenv
+
+# Not: VScode için solt alt kısımdan kullanılacak ortamın python derleyicisini seçmeyi unutmayın!
+
+# Gerekli yüklemeler
+# conda install -c anaconda flask
+# conda install -c conda-forge python-socketio
+# conda install -c conda-forge eventlet
+# conda install -c conda-forge tensorflow
+# conda install -c conda-forge keras
+# set KERAS_BACKEND=tensorflow
+# conda install -c anaconda pillow
+# conda install -c anaconda numpy
+# conda install -c conda-forge opencv
