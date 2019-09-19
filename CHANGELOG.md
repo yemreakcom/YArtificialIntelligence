@@ -9,6 +9,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🚀 Yenilikler
 
+* 🌌 Tensorflow notları eklendi. [Yunus Emre]
+
 * Coursera Çalışma Dosyalarını İndirme yazısı eklendi. [Yunus Emre]
 
 * Geliştiriciler için ek dosyalar eklendi. [Yunus Emre]
@@ -18,6 +20,8 @@ description: Sitede neler olup bittiğinin raporudur.
 * 👓 Awesome alanları eklendi. [Yunus Emre]
 
 ### 🌌 Değişikler
+
+* Update Açıklama.md. [Yunus Emre]
 
 * 🚗 Self-Driving Car Course aktarıldı. [Yunus Emre]
 
