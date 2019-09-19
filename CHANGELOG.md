@@ -15,6 +15,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 📡 Diğerler
 
+* 🐞 Sorun hala devam etmekte, test amaçlıdı 🧪 [Yunus Emre]
+
 * 🐞 ##'ten #### gelmesinden kaynaklanan hata çözüldü. [Yunus Emre]
 
 * 🧪 Deneme amaçlı. [Yunus Emre]
