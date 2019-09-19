@@ -31,6 +31,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 * ✨ Self-Driving Car Course notları güzelleştirildi. [Yunus Emre]
 
+* ✨ Self-Driving Car Course notları güzelleştirildi. [Yunus Emre]
+
 * 🚗 Self-Driving Car Course notları güzelleştirildi. [Yunus Emre]
 
 * 🐞 Sorun hala devam etmekte, test amaçlıdı 🧪 [Yunus Emre]
