@@ -2,7 +2,7 @@
 
 Udemy üzerindeki [The Complete Self-Driving Car Course - Applied Deep Learning 🚗](https://www.udemy.com/applied-deep-learningtm-the-complete-self-driving-car-course/) kursu için aldığım notlar.
 
-- Genel python çalışmalarım, oluşturduğum ek notlara [buraya](res/Kendi%20Notlar%C4%B1m%20~%20SDC.pdf) tıklayarak ulaşabilirsin.
+- Elle yazılmış olan notlarıma ✍ [buraya](res/Kendi%20Notlar%C4%B1m%20~%20SDC.pdf) tıklayarak ulaşabilirsin.
 - Microsoft ML cheat sheet için [buraya](kaynaklar%2Fmicrosoft-machine-learning-algorithm-cheat-sheet-v7.pdf) bakabilirsin.
 
 ## Temel Notlar
