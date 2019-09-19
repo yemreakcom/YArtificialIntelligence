@@ -11,6 +11,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 * 🌌 Tensorflow notları eklendi. [Yunus Emre]
 
+* 🌌 Tensorflow notları eklendi. [Yunus Emre]
+
 * Coursera Çalışma Dosyalarını İndirme yazısı eklendi. [Yunus Emre]
 
 * Geliştiriciler için ek dosyalar eklendi. [Yunus Emre]
