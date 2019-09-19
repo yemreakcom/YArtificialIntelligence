@@ -23,6 +23,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🌌 Değişikler
 
+* Update Tensorflow ile Obje Algılama.md. [Yunus Emre]
+
 * 🗽 İndeksleme yenilendi. [Yunus Emre]
 
 * Update Açıklama.md. [Yunus Emre]
