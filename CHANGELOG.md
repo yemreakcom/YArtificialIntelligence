@@ -9,9 +9,19 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🚀 Yenilikler
 
+* Coursera Çalışma Dosyalarını İndirme yazısı eklendi. [Yunus Emre]
+
+* Geliştiriciler için ek dosyalar eklendi. [Yunus Emre]
+
 * 🐞 Aktarma sorunu oluşturduğundan kaldırıldı (geçici) [Yunus Emre]
 
 * 👓 Awesome alanları eklendi. [Yunus Emre]
+
+### 🌌 Değişikler
+
+* 🚗 Self-Driving Car Course aktarıldı. [Yunus Emre]
+
+  Diğer derin öğrenme çalışmam aktarıldı
 
 ### 📡 Diğerler
 
