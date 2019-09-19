@@ -9,6 +9,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🚀 Yenilikler
 
+* 🖼 Tensorflow Object Detection API ile Obje Bulma için resim eklendi. [Yunus Emre]
+
 * 🌌 Tensorflow notları eklendi. [Yunus Emre]
 
 * 🌌 Tensorflow notları eklendi. [Yunus Emre]
