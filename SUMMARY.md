@@ -1,4 +1,5 @@
 <!--Index-->
+
 # Summary
 
 - [🧠 Yapay Zeka](./README.md)
@@ -59,20 +60,20 @@
     - [Yapay Zeka Notları](./Ki%C5%9Fisel%20Notlar/X1%20-%20Yapay%20Zeka%20Notlar%C4%B1.md)
   - [🚗 Self-Driving Car Course](./Self-Driving%20Car%20Course/README.md)
     - [Self Driven Car Course](./Self-Driving%20Car%20Course/Tan%C4%B1t%C4%B1m.md)
-    - [1. Başlagıç](./Self-Driving%20Car%20Course/1.%20Ba%C5%9Flag%C4%B1%C3%A7)
-    - [2. OpenCV Çizgi Algılama](./Self-Driving%20Car%20Course/2.%20OpenCV%20%C3%87izgi%20Alg%C4%B1lama)
-    - [2.1 OpenCV Orta Çizgiyi Hesaplama](./Self-Driving%20Car%20Course/2.1%20OpenCV%20Orta%20%C3%87izgiyi%20Hesaplama)
-    - [3. Makine Öğrenimi](./Self-Driving%20Car%20Course/3.%20Makine%20%C3%96%C4%9Frenimi)
-    - [4. Derin Sinir Ağları](./Self-Driving%20Car%20Course/4.%20Derin%20Sinir%20A%C4%9Flar%C4%B1)
-    - [5. Çoklu Sınıflandırma](./Self-Driving%20Car%20Course/5.%20%C3%87oklu%20S%C4%B1n%C4%B1fland%C4%B1rma)
-    - [6. Derin Öğrenme](./Self-Driving%20Car%20Course/6.%20Derin%20%C3%96%C4%9Frenme)
-    - [7. Evirişimli Sinir Ağları](./Self-Driving%20Car%20Course/7.%20Eviri%C5%9Fimli%20Sinir%20A%C4%9Flar%C4%B1)
-    - [8. Polynomal Regresyon](./Self-Driving%20Car%20Course/8.%20Polynomal%20Regresyon)
-    - [9. Traffik İşaretlerini Algılama](./Self-Driving%20Car%20Course/9.%20Traffik%20%C4%B0%C5%9Faretlerini%20Alg%C4%B1lama)
-    - [a1. Davranış Klonlama](./Self-Driving%20Car%20Course/a1.%20Davran%C4%B1%C5%9F%20Klonlama)
+    - [1. Başlagıç](./Self-Driving%20Car%20Course/1.%20Ba%C5%9Flag%C4%B1%C3%A7/README.md)
+    - [2. OpenCV Çizgi Algılama](./Self-Driving%20Car%20Course/2.%20OpenCV%20%C3%87izgi%20Alg%C4%B1lama/README.md)
+    - [2.1 OpenCV Orta Çizgiyi Hesaplama](./Self-Driving%20Car%20Course/2.1%20OpenCV%20Orta%20%C3%87izgiyi%20Hesaplama/README.md)
+    - [3. Makine Öğrenimi](./Self-Driving%20Car%20Course/3.%20Makine%20%C3%96%C4%9Frenimi/README.md)
+    - [4. Derin Sinir Ağları](./Self-Driving%20Car%20Course/4.%20Derin%20Sinir%20A%C4%9Flar%C4%B1/README.md)
+    - [5. Çoklu Sınıflandırma](./Self-Driving%20Car%20Course/5.%20%C3%87oklu%20S%C4%B1n%C4%B1fland%C4%B1rma/README.md)
+    - [6. Derin Öğrenme](./Self-Driving%20Car%20Course/6.%20Derin%20%C3%96%C4%9Frenme/README.md)
+    - [7. Evirişimli Sinir Ağları](./Self-Driving%20Car%20Course/7.%20Eviri%C5%9Fimli%20Sinir%20A%C4%9Flar%C4%B1/README.md)
+    - [8. Polynomal Regresyon](./Self-Driving%20Car%20Course/8.%20Polynomal%20Regresyon/README.md)
+    - [9. Traffik İşaretlerini Algılama](./Self-Driving%20Car%20Course/9.%20Traffik%20%C4%B0%C5%9Faretlerini%20Alg%C4%B1lama/README.md)
+    - [a1. Davranış Klonlama](./Self-Driving%20Car%20Course/a1.%20Davran%C4%B1%C5%9F%20Klonlama/README.md)
     - [Model Usage](./Self-Driving%20Car%20Course/a1.%20Model%20Kullan%C4%B1m%C4%B1/README.md)
     - [Final](./Self-Driving%20Car%20Course/a3.%20Kapan%C4%B1%C5%9F/README.md)
-    - [kaynaklar](./Self-Driving%20Car%20Course/kaynaklar)
+    - [kaynaklar](./Self-Driving%20Car%20Course/kaynaklar/README.md)
 
 <!--Index-->
 
