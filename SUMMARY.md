@@ -6,7 +6,7 @@
   - [👀 Neler değişti](./CHANGELOG.md)
   - [🚀 Awesome](./0%20-%20Awesome/README.md)
     - [🧠 Awesome Artificial Intelligence (AI)](./0%20-%20Awesome/Awesome%20Artifical%20Intelligent.md)
-    - [Awesome Deep Learning Project Ideas](./0%20-%20Awesome/Awesome%20Deep%20Learning%20Projects%20Ideas.md)
+    - [🤔 Awesome Deep Learning Project Ideas](./0%20-%20Awesome/Awesome%20Deep%20Learning%20Projects%20Ideas.md)
     - [👨‍🏫 Awesome Machine Learning](./0%20-%20Awesome/Awesome%20Machine%20Learning.md)
     - [⚡ Awesome TensorFlow](./0%20-%20Awesome/Awesome%20Tensorflow.md)
   - [🤸‍ Cheet Sheets](./0%20-%20Cheet%20Sheets/README.md)
