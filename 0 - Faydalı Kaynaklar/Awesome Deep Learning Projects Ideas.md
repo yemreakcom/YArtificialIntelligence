@@ -1,12 +1,13 @@
+---
+description: A curated list of practical deep learning and machine learning project ideas
+---
+
 # 🤔 Awesome Deep Learning Project Ideas
 
 ## 🗽 Açıklama
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 Orjinal kaynağı için [buraya](https://github.com/NirantK/awesome-project-ideas/blob/master/README.md) bakabilirsin.
-
-
-A curated list of practical deep learning and machine learning project ideas
 
 - 30+ ideas
 - Relevant to both the academia and industry
