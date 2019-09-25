@@ -51,6 +51,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🗽 Düzeltmeler
 
+* Önemsiz düzeltme. [Yunus Emre]
+
 * Ufak düzenleme. [Yunus Emre]
 
 * 🐞 Self-Driving Car Course içeriklerinin gözükmeme sorunu giderildi. [Yunus Emre]
