@@ -13,7 +13,7 @@ description: "Makine öğrenimi 👨‍🏫💻, Sinir Ağları 🕸 ve Deep Lea
 - Yani hep güncel kalacak denebilir 🚀
 - İyi okumalar 👻
 
-> [🚀 Awesome](./Awesome) etiketi ile adlandırılan, bir konu veya yazılım üzerine detaylı açıklamaların yapıldığı projelere bakmana fayda var
+> [🌟 Faydalı Kaynaklara](0%20-%20Faydal%C4%B1%20Kaynaklar) ve içerisindeki **🚀 Awesome** etiketi ile adlandırılan, bir konu veya yazılım üzerine detaylı açıklamaların yapıldığı projelere bakmana fayda var.
 
 ## 🗼 Açıklama
 

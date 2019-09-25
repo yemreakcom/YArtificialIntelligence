@@ -27,6 +27,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🌌 Değişikler
 
+* Update SUMMARY.md. [Yunus Emre]
+
 * Update Tensorflow Object Detection API ile Obje Bulma.md. [Yunus Emre]
 
 * Update README.md. [Yunus Emre]
