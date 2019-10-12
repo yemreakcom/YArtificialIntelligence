@@ -9,6 +9,10 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🚀 Yenilikler
 
+* 📕 Machine Learning Notebooks alanı eklendi. [Yunus Emre]
+
+  WQU ML eğitimindeki çalışma notebooklarıdır
+
 * Create .ygitchangelog.rc. [Yunus Emre]
 
 * 🌟 Faydalı kaynaklar alanı oluşturuldu. [Yunus Emre]
