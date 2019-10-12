@@ -9,6 +9,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🚀 Yenilikler
 
+* Create .ygitchangelog.rc. [Yunus Emre]
+
 * 🌟 Faydalı kaynaklar alanı oluşturuldu. [Yunus Emre]
 
 * 🤔 Awesome Deep Learning Project Ideas eklendi. [Yunus Emre]
