@@ -31,6 +31,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🌌 Değişikler
 
+* Entegrasyon yenilendi. [Yunus Emre]
+
 * Update SUMMARY.md. [Yunus Emre]
 
 * Update Tensorflow Object Detection API ile Obje Bulma.md. [Yunus Emre]
