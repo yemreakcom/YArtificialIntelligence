@@ -9,6 +9,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🚀 Yenilikler
 
+* 📜 Açıklama eklendi. [Yunus Emre]
+
 * 🧰 Makine Öğrenimi Başlangıç Kiti eklendi. [Yunus Emre]
 
 * 📺 WQU ML lecture 01 linki eklendi. [Yunus Emre]
