@@ -71,6 +71,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🗽 Düzeltmeler
 
+* ✨ Ufak düzeltmeler yapıldı. [Yunus Emre]
+
 * Önemsiz düzeltme. [Yunus Emre]
 
 * Ufak düzenleme. [Yunus Emre]
