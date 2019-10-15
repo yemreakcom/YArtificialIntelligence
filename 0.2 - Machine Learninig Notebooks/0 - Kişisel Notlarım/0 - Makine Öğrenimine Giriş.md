@@ -1,0 +1,36 @@
+# 🙋‍ Makine Öğrenimine Giriş
+
+## 👀 Kavramlara Göz Atalım
+
+- Öğrenmeyi, daha önceki tecrübelerimizden yola çıkarak, yeni olaylar için öngörüde bulunmak olarak nitelendirebiliriz
+  - Örneğin otobüse her seferinde geç kalma durumunda, biraz daha erken çıkmamız gerektiğini öğrenebiliriz
+- Genelde insanların öğrenme hususunda makinelerden daha hızlı olduğu söylense de, makineler çok yüksek miktardaki verileri daha iyi öğrenirler
+  - Bu veriler `csv` dosyaları veya resimler olabilir
+
+## 🎯 Makine Öğreniminin Amacı
+
+- Daha önceden sahip olduğumuz verileri analiz etme ve anlama
+- Bu anlayışı kullanarak anlamsız verileri mantıksal olarak anlamlandırma
+- Örnek olarak "Kedi resimlerini öğrenip, kedileri bulan bir model" verilebilir
+
+> Verilerin aynı dağıtımdan olması gerektiğini unutmayalım. Kedileri öğretip, köpekleri bulması beklenilemez.
+
+## 💪 Makine Öğreniminin Gücü
+
+Makine öğreniminin gücü iki temel sebebe dayanır
+
+- Günümüzde, çok yüksek miktarda üretilen verilere
+- Gelişen bilgisayar teknolojisi işlem gücünün artmasına
+
+## ❔ Makine Öğrenimine Bir Örnek
+
+Soldaki tablo verilerinden oluşan bir seti makineye öğrettiğimizde:
+
+- Sağdaki yeşil çizgi makinenin öngördüğü sınırdır
+  - Bu sınırın altında kalanlar Kedi, üstünde kalanlar Köpek olarak nitelendirilebilir
+- Sağdaki kırmızı çizgi ise gerçek sınır çizgisini temsil eder
+
+> Bu öğrenme yönetimi **Lineer Regression** olarak adlandırılmaktadır.
+
+![](../../res/ex_ml1.png)
+
