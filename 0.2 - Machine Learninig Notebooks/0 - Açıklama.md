@@ -1,3 +1,7 @@
+---
+description: Makine öğrenimi temellerini ve uygulamasını öğrenme adımları
+---
+
 # 🧰 Makine Öğrenimi Başlangıç Kiti
 
 - [✍ Kişisel Notlarım](https://ai.yemreak.com/0.2-machine-learninig-notebooks/0-kisisel-notlarim) alanından notebooklardan çıkarıdığım notlara erişebilirsin
