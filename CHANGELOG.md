@@ -75,6 +75,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 📡 Diğerler
 
+* ✨ Veriler güzelleştirildi. [Yunus Emre]
+
 * ✨ Veriler iyileştirildi. [Yunus Emre]
 
 * 🕵️‍ Tensorflow Object Detection API ile Obje Bulma. [Yunus Emre]
