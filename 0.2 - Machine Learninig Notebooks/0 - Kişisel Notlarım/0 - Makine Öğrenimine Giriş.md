@@ -53,3 +53,17 @@ $$ f(x) \approx y $$
 
 - $$X$$, **feature matrix** olarak adlandırılan özellik matriksi
 - $$Y$$, **labels** olarak adlandırılan x'in anlamlandırılmış halidir
+
+## 🐞 Makine Öğrenimindeki Sıkıntılar
+
+Makine öğrenimi sonucunda oluşan modeller verileri genelleştirmede yeteri kadar başarılı olmayabilmekte
+
+- Sadece verilen bilgilerden öğrendikleri için sınırlı tahminler yapabilmekteler
+- Veya verilen bilgileri aşırı öğrendiğin (**overfitting**) genelleştirmede zayıf kalmaktadır
+
+![](../../res/ml_overfitting_ex1.png)
+
+## 🔗 Harici Bağlantılar
+
+- [📜 Intro to Machine Learning](../1%20-%20E%C4%9Fitici%20Notebooklar/0%20-%20Intro%20to%20Machine%20Learning.ipynb)
+- [📊 WQU Data Science](https://wqu.org/programs/data-science)
