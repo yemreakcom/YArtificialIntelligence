@@ -9,6 +9,10 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🚀 Yenilikler
 
+* 🐞 Makine Öğrenimindeki Sıkıntılar eklendi. [Yunus Emre]
+
+* 📉 Scikit-Learn yazısı eklendi. [Yunus Emre]
+
 * 🌌 Makine Öğrenimi Öğrenme Tipleri eklendi. [Yunus Emre]
 
 * 🙋‍ Makine Öğrenimine Giriş yazısı eklendi. [Yunus Emre]
@@ -70,6 +74,8 @@ description: Sitede neler olup bittiğinin raporudur.
 * 🐞 Self-Driving Car Course içeriklerinin gözükmeme sorunu giderildi. [Yunus Emre]
 
 ### 📡 Diğerler
+
+* ✨ Veriler iyileştirildi. [Yunus Emre]
 
 * 🕵️‍ Tensorflow Object Detection API ile Obje Bulma. [Yunus Emre]
 
