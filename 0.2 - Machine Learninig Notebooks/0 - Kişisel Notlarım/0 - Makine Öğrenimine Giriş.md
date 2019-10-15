@@ -28,7 +28,7 @@ Makine öğreniminin gücü iki temel sebebe dayanır
 
 ## 🌟 Makine Öğrenimi Uygulamalarına Örnekler
 
-### 👶 Grafiksel Bir Örnek
+### 📈 Grafiksel Bir Örnek
 
 Soldaki tablo verilerinden oluşan bir seti makineye öğrettiğimizde:
 
@@ -72,7 +72,7 @@ $$ f(x) \approx y $$
 Makine öğrenimi sonucunda oluşan modeller verileri genelleştirmede yeteri kadar başarılı olmayabilmekte
 
 - Sadece verilen bilgilerden öğrendikleri için sınırlı tahminler yapabilmekteler
-- Veya verilen bilgileri aşırı öğrendiğin (**overfitting**) genelleştirmede zayıf kalmaktadır
+- Ayrıca verilen bilgileri aşırı öğrenmeleri (**overfitting**) durumunda genelleştirmede zayıf kalmaktadır
 
 ![](../../res/ml_overfitting_ex1.png)
 

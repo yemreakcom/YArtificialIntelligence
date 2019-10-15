@@ -9,6 +9,10 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🚀 Yenilikler
 
+* 📺 WQU ML lecture 01 linki eklendi. [Yunus Emre]
+
+* 🌟 Makine Öğrenimi Uygulamalarına Örnekler arttırıldı. [Yunus Emre]
+
 * 🐞 Makine Öğrenimindeki Sıkıntılar eklendi. [Yunus Emre]
 
 * 📉 Scikit-Learn yazısı eklendi. [Yunus Emre]

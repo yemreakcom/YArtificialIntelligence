@@ -1,5 +1,5 @@
 ---
-description: Makine öğrenimi uygulamak için önceden hazırkanmış python paketi hakkında yazım.
+description: Makine öğrenimi uygulamak için önceden hazırlanmış python paketidir.
 ---
 
 # 📉 Scikit-Learn
