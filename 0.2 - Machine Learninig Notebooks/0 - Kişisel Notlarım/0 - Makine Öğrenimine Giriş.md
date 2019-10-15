@@ -26,7 +26,9 @@ Makine öğreniminin gücü iki temel sebebe dayanır
 - Günümüzde, çok yüksek miktarda üretilen verilere
 - Gelişen bilgisayar teknolojisi işlem gücünün artmasına
 
-## ❔ Makine Öğrenimine Bir Örnek
+## 🌟 Makine Öğrenimi Uygulamalarına Örnekler
+
+### 👶 Grafiksel Bir Örnek
 
 Soldaki tablo verilerinden oluşan bir seti makineye öğrettiğimizde:
 
@@ -37,6 +39,13 @@ Soldaki tablo verilerinden oluşan bir seti makineye öğrettiğimizde:
 > Bu öğrenme yönetimi **Lineer Regression** olarak adlandırılmaktadır.
 
 ![](../../res/ex_ml1.png)
+
+### 🚢 Online Bir Örnek
+
+Alttaki uygulama verilen tablodaki verileri öğrenen bir modelin çalışmasına örnektir
+
+![](../../res/ml_ex_ex1.png) ![](../../res/ml_ex_why1.png)
+
 
 ## 🌌 Makine Öğrenimi Öğrenme Tipleri
 
@@ -70,4 +79,5 @@ Makine öğrenimi sonucunda oluşan modeller verileri genelleştirmede yeteri ka
 ## 🔗 Harici Bağlantılar
 
 - [📜 Intro to Machine Learning](../1%20-%20E%C4%9Fitici%20Notebooklar/0%20-%20Intro%20to%20Machine%20Learning.ipynb)
+- [📺 WQU ML lecture 01](https://www.youtube.com/watch?v=9J6FNvil6Gw&feature=youtu.be)
 - [📊 WQU Data Science](https://wqu.org/programs/data-science)
