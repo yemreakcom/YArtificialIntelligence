@@ -1,3 +1,7 @@
+---
+description: Çok hevesle yaklaşılan makine öğreniminin ne olduğuna ışık tutan bir yazı.
+---
+
 # 🙋‍ Makine Öğrenimine Giriş
 
 ## 👀 Kavramlara Göz Atalım
