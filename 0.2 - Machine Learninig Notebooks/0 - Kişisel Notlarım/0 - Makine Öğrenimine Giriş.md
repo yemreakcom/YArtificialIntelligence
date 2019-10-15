@@ -34,3 +34,22 @@ Soldaki tablo verilerinden oluşan bir seti makineye öğrettiğimizde:
 
 ![](../../res/ex_ml1.png)
 
+## 🌌 Makine Öğrenimi Öğrenme Tipleri
+
+| Supervised                                    | Unsupervised                                                |
+| --------------------------------------------- | ----------------------------------------------------------- |
+| Daha önceden anlamlandırılmı verileri öğrenme | Anlamlandırılmamış verilerden anlam ve benzerlik bulma      |
+| Fotoğrafların kedi olduğu bilinir             | Fotoğrafların ne olduğu bilinmez                            |
+| Temel amacı öğrenmektir                       | Temel amacı gruplamaktır                                    |
+| Öğrendiği verilerin ne olduğunu bilir         | Verilerin ne olduğunu bilmez sadece benzer olanları gruplar |
+
+> Bizim odaklanacağımız teknik **Supervised Learning** tekniğidir.
+
+### 👨‍🏫 Supervised Learning
+
+Temel amaç, verilen $$X$$ ile istenen $$Y$$ yi bulmaktır.
+
+$$ f(x) \approx y $$
+
+- $$X$$, **feature matrix** olarak adlandırılan özellik matriksi
+- $$Y$$, **labels** olarak adlandırılan x'in anlamlandırılmış halidir
