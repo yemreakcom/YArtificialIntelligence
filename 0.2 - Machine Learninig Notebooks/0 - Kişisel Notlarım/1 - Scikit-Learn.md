@@ -68,4 +68,5 @@ plt.legend()
 ## 🔗 Harici Bağlantılar
 
 - [📜 Intro to Machine Learning](../1%20-%20E%C4%9Fitici%20Notebooklar/0%20-%20Intro%20to%20Machine%20Learning.ipynb)
+- [📺 WQU ML lecture 01](https://www.youtube.com/watch?v=9J6FNvil6Gw&feature=youtu.be)
 - [📊 WQU Data Science](https://wqu.org/programs/data-science)
