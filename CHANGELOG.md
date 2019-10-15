@@ -9,6 +9,10 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🚀 Yenilikler
 
+* 🌌 Makine Öğrenimi Öğrenme Tipleri eklendi. [Yunus Emre]
+
+* 🙋‍ Makine Öğrenimine Giriş yazısı eklendi. [Yunus Emre]
+
 * 📕 Machine Learning Notebooks alanı eklendi. [Yunus Emre]
 
   WQU ML eğitimindeki çalışma notebooklarıdır
