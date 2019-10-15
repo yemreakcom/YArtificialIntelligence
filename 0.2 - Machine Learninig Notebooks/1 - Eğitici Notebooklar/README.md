@@ -4,12 +4,12 @@
 
 ## 📂 Harici Dosyalar
 
+- [0 - Intro to Machine Learning.ipynb](./0%20-%20Intro%20to%20Machine%20Learning.ipynb)
 - [ML_Anomaly_Detection.ipynb](./ML_Anomaly_Detection.ipynb)
 - [ML_Classification.ipynb](./ML_Classification.ipynb)
 - [ML_Clustering.ipynb](./ML_Clustering.ipynb)
 - [ML_Dimension_Reduction.ipynb](./ML_Dimension_Reduction.ipynb)
 - [ML_FeatureEngineering.ipynb](./ML_FeatureEngineering.ipynb)
-- [ML_Intro_ML.ipynb](./ML_Intro_ML.ipynb)
 - [ML_K_Nearest_Neighbors.ipynb](./ML_K_Nearest_Neighbors.ipynb)
 - [ML_LinearRegression.ipynb](./ML_LinearRegression.ipynb)
 - [ML_Metrics.ipynb](./ML_Metrics.ipynb)
