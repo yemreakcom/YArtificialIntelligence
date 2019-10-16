@@ -1,5 +1,5 @@
 ---
-description: Çok hevesle yaklaşılan makine öğreniminin ne olduğuna ışık tutan bir yazı.
+description: Çok hevesle yaklaşılan makine öğreniminin ne olduğuna basitçe bir yaklaşım.
 ---
 
 # 🙋‍ Makine Öğrenimine Giriş
