@@ -51,6 +51,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🌌 Değişikler
 
+* Update integrate.sh. [Yunus Emre]
+
 * Update SUMMARY.md. [Yunus Emre]
 
 * Entegrasyon yenilendi. [Yunus Emre]

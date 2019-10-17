@@ -1,8 +1,8 @@
 ---
-description: Makine öğrenimi uygulamak için önceden hazırlanmış python paketidir.
+description: Makine öğrenimi uygulamak için önceden hazırlanmış python paketine giriş.
 ---
 
-# 📉 Scikit-Learn
+# 🚶‍ Scikit-Learn'e Giriş
 
 ## ❔ Scikit-Learn Nasıl Çalışır?
 
