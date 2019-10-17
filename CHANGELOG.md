@@ -51,6 +51,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🌌 Değişikler
 
+* Update SUMMARY.md. [Yunus Emre]
+
 * Entegrasyon yenilendi. [Yunus Emre]
 
 * Update SUMMARY.md. [Yunus Emre]
@@ -84,6 +86,12 @@ description: Sitede neler olup bittiğinin raporudur.
 * 🐞 Self-Driving Car Course içeriklerinin gözükmeme sorunu giderildi. [Yunus Emre]
 
 ### 📡 Diğerler
+
+* 🐞 [Yunus Emre]
+
+* 💫 [Yunus Emre]
+
+* ✨ [Yunus Emre]
 
 * ✨ Veriler güzelleştirildi. [Yunus Emre]
 
