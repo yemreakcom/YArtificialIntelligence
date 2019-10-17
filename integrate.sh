@@ -1,8 +1,6 @@
-python ../YGitBookIntegration/integrate.py .
+python ../YGitBookIntegration/integrate.py . -ll 1 -l ../YWiki/Yapay\ Zeka/README.md -u https://ai.yemreak.com
 echo "---
 description: Sitede neler olup bittiğinin raporudur.
----
-" > CHANGELOG.md
-
-ygitchangelog.exe >> CHANGELOG.md
-bash github .
+---" > CHANGELOG.md
+ygitchangelog -d >> CHANGELOG.md
+bash github
