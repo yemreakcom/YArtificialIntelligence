@@ -1,6 +1,6 @@
-<!--Index-->
-
 # Summary
+
+<!--Index-->
 
 - [🧠 Yapay Zeka](./README.md)
   - [👀 Neler değişti](./CHANGELOG.md)
@@ -15,7 +15,8 @@
     - [🧰 Makine Öğrenimi Başlangıç Kiti](./0.2%20-%20Machine%20Learninig%20Notebooks/0%20-%20A%C3%A7%C4%B1klama.md)
     - [✍ Kişisel Notlarım](./0.2%20-%20Machine%20Learninig%20Notebooks/0%20-%20Ki%C5%9Fisel%20Notlar%C4%B1m/README.md)
       - [🙋‍ Makine Öğrenimine Giriş](./0.2%20-%20Machine%20Learninig%20Notebooks/0%20-%20Ki%C5%9Fisel%20Notlar%C4%B1m/0%20-%20Makine%20%C3%96%C4%9Frenimine%20Giri%C5%9F.md)
-      - [📉 Scikit-Learn](./0.2%20-%20Machine%20Learninig%20Notebooks/0%20-%20Ki%C5%9Fisel%20Notlar%C4%B1m/1%20-%20Scikit-Learn.md)
+      - [📉 Scikit-Learn'e Giriş](./0.2%20-%20Machine%20Learninig%20Notebooks/0%20-%20Ki%C5%9Fisel%20Notlar%C4%B1m/1%20-%20Scikit-Learn%27e%20Giri%C5%9F.md)
+      - [📉 SciKit-Learn](./0.2%20-%20Machine%20Learninig%20Notebooks/0%20-%20Ki%C5%9Fisel%20Notlar%C4%B1m/2%20-%20SciKit-Learn.md)
     - [👨‍🏫 Eğitici Notebooklar](./0.2%20-%20Machine%20Learninig%20Notebooks/1%20-%20E%C4%9Fitici%20Notebooklar/README.md)
     - [👨‍💻 Çalışma Notebookları](./0.2%20-%20Machine%20Learninig%20Notebooks/2%20-%20%C3%87al%C4%B1%C5%9Fma%20Notebooklar%C4%B1/README.md)
     - [📂 data](./0.2%20-%20Machine%20Learninig%20Notebooks/data/README.md)
