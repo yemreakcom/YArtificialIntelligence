@@ -4,6 +4,7 @@
 
 - [🧠 Yapay Zeka](./README.md)
   - [👀 Neler değişti](./CHANGELOG.md)
+  - [💖 Katkıda Bulunma Rehberi](./CONTRIBUTING.md)
   - [🌟 Faydalı Kaynaklar](./0%20-%20Faydal%C4%B1%20Kaynaklar/README.md)
     - [🧠 Awesome Artificial Intelligence (AI)](./0%20-%20Faydal%C4%B1%20Kaynaklar/Awesome%20Artifical%20Intelligent.md)
     - [🤔 Awesome Deep Learning Project Ideas](./0%20-%20Faydal%C4%B1%20Kaynaklar/Awesome%20Deep%20Learning%20Projects%20Ideas.md)
