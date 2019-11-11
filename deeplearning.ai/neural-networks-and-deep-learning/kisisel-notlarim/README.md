@@ -1,0 +1,2 @@
+# ✍ Kişisel Notlarım
+
