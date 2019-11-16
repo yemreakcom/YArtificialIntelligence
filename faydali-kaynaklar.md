@@ -34,9 +34,10 @@ Kariyer hedefi için olmazsa olmaz olan kurstur. 🚀
 * [Siraj Raval 🤵🌟 - Youtube](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 * [Siraj Raval 🤵🌟 - Github](https://github.com/llSourcell)
 * [Nabih Ibrahim Bawazir 🤵 - LinkedIn](https://www.linkedin.com/in/nabihbawazir/detail/recent-activity/shares/)
+* [Zafer Demirkol 🤵🌟 - LinkedIn](https://tr.linkedin.com/in/zaferdemirkol)
 * [Deep Learning Türkiye ☪](https://medium.com/deep-learning-turkiye)
 
-## 🚩 Yönlendirici ve Eğitici aynaklar
+## 🚩 Yönlendirici ve Eğitici Kaynaklar
 
 * [ML Cheat Sheet](https://github.com/yedhrab/YArtificalIntelligent/tree/8121852651fd32f8f5d2a1cece28955d0fb514d2/res/microsoft-machine-learning-algorithm-cheat-sheet-v7.pdf)
 * [Tutorial List](https://www.linkedin.com/feed/update/urn:li:activity:6540145442783629313)
