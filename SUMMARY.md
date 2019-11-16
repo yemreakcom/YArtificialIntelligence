@@ -4,7 +4,7 @@
 * [🌟 Faydalı Kaynaklar](faydali-kaynaklar.md)
 * [📙 Yapay Zeka Çalışmalarım](https://github.com/YEmreAk/AI-NoteBooks)
 * [👨‍🏫 Makine Öğrenimi](makine-oegrenimi/README.md)
-  * [🙋‍ Makine Öğrenimine Giriş](makine-oegrenimi/makine-oegrenimine-giris.md)
+  * [🔰 Makine Öğrenimine Giriş](makine-oegrenimi/makine-oegrenimine-giris.md)
   * [🚶‍ SciKit-Learn'e Giriş](makine-oegrenimi/scikit-learne-giris.md)
   * [📉 SciKit-Learn](makine-oegrenimi/scikit-learn.md)
 * [🕵️‍ Tensorflow ile Obje Bulma](tensorflow-ile-obje-bulma-1/README.md)

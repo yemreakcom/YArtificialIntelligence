@@ -2,7 +2,7 @@
 description: Çok hevesle yaklaşılan makine öğreniminin ne olduğuna basitçe bir yaklaşım.
 ---
 
-# 🙋‍ Makine Öğrenimine Giriş
+# 🔰 Makine Öğrenimine Giriş
 
 ## 👀 Kavramlara Göz Atalım
 
@@ -38,11 +38,11 @@ Soldaki tablo verilerinden oluşan bir seti makineye öğrettiğimizde:
   * Bu sınırın altında kalanlar Kedi, üstünde kalanlar Köpek olarak nitelendirilebilir
 * Sağdaki kırmızı çizgi ise gerçek sınır çizgisini temsil eder
 
+![](../.gitbook/assets/image%20%2840%29.png)
+
 {% hint style="info" %}
 Bu öğrenme yönetimi **Lineer Regression** olarak adlandırılmaktadır.
 {% endhint %}
-
-![](../.gitbook/assets/image%20%2840%29.png)
 
 ### 🚢 Online Bir Örnek
 
@@ -56,16 +56,18 @@ Alttaki uygulama verilen tablodaki verileri öğrenen bir modelin çalışmasın
 
 | Supervised | Unsupervised |
 | :--- | :--- |
-| Daha önceden anlamlandırılmı verileri öğrenme | Anlamlandırılmamış verilerden anlam ve benzerlik bulma |
+| Daha önceden anlamlandırılmış verileri öğrenme | Anlamlandırılmamış verilerden anlam ve benzerlik bulma |
 | Fotoğrafların kedi olduğu bilinir | Fotoğrafların ne olduğu bilinmez |
 | Temel amacı öğrenmektir | Temel amacı gruplamaktır |
 | Öğrendiği verilerin ne olduğunu bilir | Verilerin ne olduğunu bilmez sadece benzer olanları gruplar |
 
-> Bizim odaklanacağımız teknik **Supervised Learning** tekniğidir.
+{% hint style="info" %}
+Bizim odaklanacağımız teknik **Supervised Learning** tekniğidir.
+{% endhint %}
 
 ### 👨‍🏫 Supervised Learning
 
-Temel amaç, verilen $$X$$ ile istenen $$Y$$ yi bulmaktır.
+Temel amaç, verilen $$X$$ ile istenen $$Y$$verisini bulmaktır.
 
 $$f(x) \approx y$$
 
