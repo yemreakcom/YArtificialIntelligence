@@ -50,18 +50,9 @@ Her sayfanın en altında bulunan memnuniyet anketi ile ✨ gelişime ortak olab
 
 > Detaylar için [TensorFlow or Keras? Which one should I learn?](https://medium.com/implodinggradients/tensorflow-or-keras-which-one-should-i-learn-5dd7fa3f9ca0) yazısına bakabilirsin.
 
-## 🚙 Diğer Özenle Hazırladığım Notlar
+## 🌍 Tüm YEmreAk İçerikleri
 
-Veri yığılmasını 📚 engellemek için içeriği fazla olan 📈 bilgiler farklı _repository_'lere aktarıldı.
-
-> Sol alt köşedeki alandan da bunlara erişebilirsin ✨
-
-* [📖 Kişisel Ansiklopedim](https://wiki.yemreak.com/)
-* [🐍 Python Notlarım](https://python.yemreak.com/)
-* [📊 Veri Bilimi Notlarım](https://ds.yemreak.com/)
-* [📱 Android Notlarım](https://android.yemreak.com/)
-* [🏫 İstanbul Üniversitesi - Bilgisayar Mühendisliği Notları](https://iuce.yemreak.com)
-* [⚛ React ve 🔥 Firebase projem](https://github.com/yedhrab/YReact-Firebase)
+![](https://drive.google.com/uc?id=1LZoJzZyY_uYbl3zCxk6ZtZPaDiMHglMv)
 
 ## 💖 Destek ve İletişim
 
