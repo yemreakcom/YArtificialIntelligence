@@ -4,6 +4,10 @@ description: Veri Kümeleri (Datasets) hakkında faydalı bilgiler
 
 # 💽 Veri Kümeleri
 
+## Veri Kümeleri
+
+* [🌟 Makine öğrenimi için en iyi 50 veri kümesi](https://lionbridge.ai/datasets/the-50-best-free-datasets-for-machine-learning/)
+
 ## Veri Kümeleri İndirme Araçları
 
 Linux terminal indiricileri yazısına bakabilirsin.

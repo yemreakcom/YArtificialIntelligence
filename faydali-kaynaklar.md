@@ -4,8 +4,6 @@ description: Faydalı olabilecek kaynakları derlediğim yer.
 
 # 🌟 Faydalı Kaynaklar
 
-## 
-
 ## 🏫 Coursera Üzerinden Eğitim
 
 Kariyer hedefi için olmazsa olmaz olan kurstur. 🚀
