@@ -4,6 +4,8 @@ description: Faydalı olabilecek kaynakları derlediğim yer.
 
 # 🌟 Faydalı Kaynaklar
 
+## 
+
 ## 🏫 Coursera Üzerinden Eğitim
 
 Kariyer hedefi için olmazsa olmaz olan kurstur. 🚀
@@ -80,4 +82,5 @@ Başkaların yapmış olduğu çalışan modeller 🤖
 ## 🥴 Karışık
 
 * [High level network definitions with pre-trained weights in TensorFlow](https://github.com/taehoonlee/tensornetss)
+* [Moda & Elbise & Kıyafet](https://github.com/ayushidalmia/awesome-fashion-ai)
 
