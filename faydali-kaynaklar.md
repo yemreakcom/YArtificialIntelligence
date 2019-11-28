@@ -14,6 +14,7 @@ Kariyer hedefi için olmazsa olmaz olan kurstur. 🚀
 * Maddi imkanın yok ise [Financial Aid](https://medium.com/deep-learning-turkiye/courseradaki-derin-%C3%B6%C4%9Frenme-kursuna-financial-aid-uygulamas%C4%B1-ile-%C3%BCcretsiz-kaydolmak-20ca52ff9b70) ile ücretsiz satın almayı deneyebilirsin
   * Financial Aid başvurusu 2 hafta önceden yapılmalıdır.
 * Yine aynı kişi \(Andrew Ng\) tarafından verilen videolara [buradaki](https://www.youtube.com/channel/UC5zx8Owijmv-bbhAK6Z9apg/featured?disable_polymer=1) linkten de erişebilirsin
+* [Kursun içeriğini anlatan ders notları](https://www.linkedin.com/posts/zaferdemirkol_deep-learning-tutorial-activity-6604626717975855105-X37E) \(ingilizce\)
 
 {% hint style="info" %}
 [2019 Yılı Yapay Zeka Eğitim ve Uygulama Programı](https://medium.com/deep-learning-turkiye/2019-yapay-zeka-e%C4%9Fitim-ve-uygulama-program%C4%B1-add138988809)'da geçen bir mesajlaşmadır.
