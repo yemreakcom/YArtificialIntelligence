@@ -48,6 +48,15 @@ Kariyer hedefi için olmazsa olmaz olan kurstur. 🚀
 * [Keras Kursu](https://www.datacamp.com/courses/deep-learning-in-python)
 * [How to Use Google Colaboratory for Video Processing](https://dzone.com/articles/how-to-use-google-colaboratory-for-video-processin)
 
+## 📚 Detaylı İçerikler
+
+Bir konu hakkında çok fazla bilgiyi depolayan kaynaklar
+
+* [Awesome Tensorflow 2](https://github.com/Amin-Tgz/awesome-tensorflow-2)
+* [Awesome Tensorflow](https://github.com/jtoy/awesome-tensorflow)
+* [Awesome Tensorflow: 有关Tensorflow资源的汇总](https://www.ctolib.com/topics-47356.html)
+  * 🤖 Models kısmı faydalı olabilir
+
 ## 🤖 Yapılmış Model Çalışmaları
 
 Başkaların yapmış olduğu çalışan modeller 🤖
