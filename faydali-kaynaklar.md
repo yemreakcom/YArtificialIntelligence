@@ -9,6 +9,7 @@ description: Faydalı olabilecek kaynakları derlediğim yer.
 Kariyer hedefi için olmazsa olmaz olan kurstur. 🚀
 
 * [Coursera Deeplearning.ai 🧠](https://www.coursera.org/specializations/deep-learning)
+* [DeepLearningNotes ~ Asma Mirkhan](https://dl.asmaamir.com/)
 * [Deeplearning 🧠 Coursera Çözümleri ve Notları](https://github.com/Kulbear/deep-learning-coursera)
 * Sertifika almak ile ilgilenmiyorsa, aynılarına [buradan](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w) erişebilirsin
 * Maddi imkanın yok ise [Financial Aid](https://medium.com/deep-learning-turkiye/courseradaki-derin-%C3%B6%C4%9Frenme-kursuna-financial-aid-uygulamas%C4%B1-ile-%C3%BCcretsiz-kaydolmak-20ca52ff9b70) ile ücretsiz satın almayı deneyebilirsin
