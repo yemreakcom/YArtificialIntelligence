@@ -23,13 +23,14 @@ Kariyer hedefi için olmazsa olmaz olan kurstur. 🚀
 
 ## ⛵ Etkili Öğrenme Linkleri
 
-* [Türkçe ☪ Yapay Zeka Kaynakları](https://github.com/deeplearningturkiye/turkce-yapay-zeka-kaynaklari)
-* [Türkçe ☪ Yapay Zeka Terimleri](https://github.com/deeplearningturkiye/turkce-yapay-zeka-terimleri)
-* [Kapsamlı Derin Öğrenme Rehberi 💫](https://github.com/ayyucekizrak/Kapsamli_Derin_Ogrenme_Rehberi)
-* [Popüler Makine Öğrenimi Algoritmaları ve Açıklamaları](https://github.com/trekhleb/homemade-machine-learning)
-* [Machine Learning makaleleri 📃](https://github.com/Swall0w/papers)
-* [Deeplearning Modelleri 🤖](https://github.com/rasbt/deeplearning-models)
-* [Tensorflow Kursu - Github](https://github.com/machinelearningmindset/TensorFlow-Course)
+* 🌙 [Türkçe ☪ Yapay Zeka Kaynakları](https://github.com/deeplearningturkiye/turkce-yapay-zeka-kaynaklari)
+* 🌙 [Türkçe ☪ Yapay Zeka Terimleri](https://github.com/deeplearningturkiye/turkce-yapay-zeka-terimleri)
+* 💫 [Kapsamlı Derin Öğrenme Rehberi](https://github.com/ayyucekizrak/Kapsamli_Derin_Ogrenme_Rehberi)
+* ✨ [Popüler Makine Öğrenimi Algoritmaları ve Açıklamaları](https://github.com/trekhleb/homemade-machine-learning)
+* 📃 [Machine Learning makaleleri](https://github.com/Swall0w/papers)
+* 🤖 [Deeplearning Modelleri](https://github.com/rasbt/deeplearning-models)
+* 📷 [Tensorflow Kursu - Github](https://github.com/machinelearningmindset/TensorFlow-Course)
+* 🚀 [Natural Language Processing is Fun!](https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e)
 
 ## 👣 Takip Edilmesi Gereken Kişiler veya Topluluklar
 
