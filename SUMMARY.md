@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🧠 Yapay Zeka](README.md)
+* [🧠 Yapay Zeka Notlarım](README.md)
 * [🌟 Faydalı Kaynaklar](faydali-kaynaklar.md)
 * [📙 Yapay Zeka Çalışmalarım](https://github.com/YEmreAk/AI-NoteBooks)
 * [👨‍🏫 Makine Öğrenimi](makine-oegrenimi/README.md)

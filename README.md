@@ -2,7 +2,7 @@
 description: YEmreAk'ın yapay zeka notları
 ---
 
-# 🧠 Yapay Zeka
+# 🧠 Yapay Zeka Notlarım
 
 ## 🙋‍♂️ Hoş Geldin
 
