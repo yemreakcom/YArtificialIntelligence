@@ -1,5 +1,7 @@
 ---
-description: YEmreAk'ın yapay zeka notları
+description: >-
+  Yunus Emre Ak ~ YEmreAk (@yedhrab) 'ın yapak zeka (artificial intelligence,
+  AI) ve makine öğrenimi (machine learning, ML) notları
 ---
 
 # 🧠 Yapay Zeka Notlarım
