@@ -36,6 +36,7 @@ We provide a collection of detection models pre-trained on the [COCO dataset](ht
 
 ### Resim Veri Kümeleri
 
+* 🚀 [CVonline: Image Databases](http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm#language)
 * [ImageNet](http://www.image-net.org/index)
   * [Stackoverflow](https://stackoverflow.com/a/48974854/9770490)
   * [Imagenet\_Utils](https://github.com/tzutalin/ImageNet_Utils)
@@ -52,7 +53,6 @@ Açıklamalı video için [buraya](https://www.youtube.com/watch?v=zphUGNbs4Do) 
 
 ## Referanslar
 
-* 🚀 [CVonline: Image Databases](http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm#language)
 * [19 Ücretsiz Veri Kümesi Sitesi](https://www.springboard.com/blog/free-public-data-sets-data-science-project/)
 * [17 Finans ve Ekonomik Veri Kümesi](https://gengo.ai/datasets/17-best-finance-economic-datasets-for-machine-learning/?utm_campaign=c&utm_medium=quora&utm_source=rei)
 * [Step by Step TensorFlow Object Detection API Tutorial — Part 1: Selecting a Model](https://medium.com/@WuStangDan/step-by-step-tensorflow-object-detection-api-tutorial-part-1-selecting-a-model-a02b6aabe39e)
