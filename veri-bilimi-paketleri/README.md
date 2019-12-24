@@ -1,2 +1,2 @@
-# 📦 Veri Bilimi Paketleri
+# 👨‍💼 Veri Yönetimi
 

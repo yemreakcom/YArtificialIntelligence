@@ -1,2 +1,2 @@
-# 📊 Veri Bilimi
+# 📊 Veri Tipleri
 
