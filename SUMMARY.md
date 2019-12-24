@@ -9,6 +9,7 @@
   * [🌍 JavaScript Verileri](veri-bilimi/javascript-verileri.md)
   * [📚  Sıkıştırılmış Veriler](veri-bilimi/sikistirilmis-veriler.md)
   * [🚅 Serileştirmiş Veriler](veri-bilimi/serilestirmis-veriler.md)
+  * [🔢 NumPy Verileri](veri-bilimi/numpy-verileri.md)
 * [👨‍🏫 Makine Öğrenimi](makine-oegrenimi/README.md)
   * [🔰 Makine Öğrenimine Giriş](makine-oegrenimi/makine-oegrenimine-giris.md)
   * [🚶‍ SciKit-Learn'e Giriş](makine-oegrenimi/scikit-learne-giris.md)
