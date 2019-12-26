@@ -70,7 +70,6 @@ Başkaların yapmış olduğu çalışan modeller 🤖
 * [TensorFlow Object Counting API 🔢](https://github.com/ahmetozlu/tensorflow_object_counting_api)
 * [DeepLeague - Lol AI](https://github.com/farzaa/DeepLeague)
 * [Instagram Bot With AI](https://instabotai.com/)
-* [Realtime Emotion Analysis from facial Expressions](https://github.com/susantabiswas/realtime-facial-emotion-analyzer)
 
 ### 🤺 Eski Çalışma Kayıtları
 

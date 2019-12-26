@@ -2,7 +2,8 @@
 
 * [🧠 Yapay Zeka Notlarım](README.md)
 * [🌟 Faydalı Kaynaklar](faydali-kaynaklar.md)
-* [📙 Yapay Zeka Çalışmalarım](https://github.com/YEmreAk/AI-NoteBooks)
+* [🤿 Derin Öğrenme Notları](https://dltr.asmaamir.com/)
+* [📙 Çalışma Notlarım](https://github.com/YEmreAk/AI-NoteBooks)
 * [📊 Veri Tipleri](veri-tipleri/README.md)
   * [🔰 Giriş \| Veri Bilimi](veri-tipleri/giris.md)
   * [📅 Tablo Verileri](veri-tipleri/csv.md)
