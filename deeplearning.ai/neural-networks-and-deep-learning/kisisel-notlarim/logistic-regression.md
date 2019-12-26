@@ -27,7 +27,7 @@
 
 {% tabs %}
 {% tab title="Tek grafik çizdirme" %}
-![](../../.gitbook/assets/image%20%2819%29.png)
+![](../../../.gitbook/assets/image%20%2819%29.png)
 
 ```python
 # Plot learning curve (with costs)
@@ -50,7 +50,7 @@ show_graph( \
 {% endtab %}
 
 {% tab title="Çoklu Grafik Çizdirme" %}
-![](../../.gitbook/assets/image%20%2824%29.png)
+![](../../../.gitbook/assets/image%20%2824%29.png)
 
 ```python
 learning_rates = [0.01, 0.001, 0.0001]

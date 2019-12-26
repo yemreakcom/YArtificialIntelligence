@@ -1,2 +1,0 @@
-# 🏗️ Makine Öğrenimi Modeli Oluşturma
-

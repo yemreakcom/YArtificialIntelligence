@@ -2,7 +2,7 @@
 description: ⚠ Kişisel çevirileri içerir.
 ---
 
-# 🧱 CNN Terimler
+# 🧱 Terimler
 
 ## Eğitim Süreci
 
