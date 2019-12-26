@@ -44,7 +44,6 @@
   * [🐞 Hata Notları](tensorflow-ile-obje-bulma-1/hata-notlari.md)
 * [🧠 DeepLearning.ai](deeplearning.ai/README.md)
   * [📝 Kişisel Notlarım](deeplearning.ai/kisisel/README.md)
-    * [📦 Numpy](deeplearning.ai/kisisel/numpy.md)
     * [📉 Logistic Regression](deeplearning.ai/kisisel/logistic-regression.md)
     * [⏬ Coursera Çalışma Dosyalarını İndirme](deeplearning.ai/kisisel/coursera-calisma-dosyalarini-indirme.md)
   * [🏗️ Makine Öğrenimi Modeli Oluşturma](deeplearning.ai/model-olusturma/README.md)
