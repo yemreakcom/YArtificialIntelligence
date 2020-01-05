@@ -63,6 +63,7 @@ Bir konu hakkında çok fazla bilgiyi depolayan kaynaklar
 
 Başkaların yapmış olduğu çalışan modeller 🤖
 
+* [Yüz koordinatları tanımlama](https://github.com/610265158/face_landmark)
 * [Yüz algılama 👩](https://github.com/ageitgey/face_recognition)
 * [Yüzden duygu ve cinsiyet algılama 😇](https://github.com/DiaaZiada/Faces)
 * [Person-Detection-and-Tracking 🕵️‍](https://github.com/ambakick/Person-Detection-and-Tracking)
