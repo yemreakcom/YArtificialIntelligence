@@ -1,9 +1,11 @@
 # Table of contents
 
 * [🧠 Yapay Zeka Notlarım](README.md)
-* [🌟 Faydalı Kaynaklar](faydali-kaynaklar.md)
-* [💫 Derin Öğrenme Notları](https://dltr.asmaamir.com/)
-* [📙 Yapay Zeka Çalışma Notları](https://github.com/YEmreAk/AI-NoteBooks)
+* [⭐ Kaynaklar](kaynaklar/README.md)
+  * [🌟 Faydalı Kaynaklar](kaynaklar/faydali-kaynaklar.md)
+  * [💫 Derin Öğrenme Notları](https://dltr.asmaamir.com/)
+  * [📙 Yapay Zeka Çalışma Notları](https://github.com/YEmreAk/AI-NoteBooks)
+  * [📕 Türkçe Terimler](https://github.com/deeplearningturkiye/turkce-yapay-zeka-terimleri)
 * [📊 Veri Tipleri](veri-tipleri/README.md)
   * [🔰 Giriş \| Veri Bilimi](veri-tipleri/giris.md)
   * [📅 Tablo Verileri](veri-tipleri/csv.md)
