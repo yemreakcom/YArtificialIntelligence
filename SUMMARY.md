@@ -27,7 +27,7 @@
     * [💨 Hızlı Notlar 2 \| Pandas](veri-yonetimi/pandas/hizli-notlar-2-or-pandas.md)
     * [🔗 Faydalı Kaynaklar \| Pandas](veri-yonetimi/pandas/faydali-kaynaklar-or-pandas.md)
   * [📈 Matplotlib](veri-yonetimi/matplotlib.md)
-* [💽 Veri Kümeleri](veri-kuemeleri.md)
+* [💽 Veri Kümeleri](veri-kumeleri.md)
 * [👨‍🏫 Makine Öğrenimi](makine-oegrenimi/README.md)
   * [🔰 Makine Öğrenimine Giriş](makine-oegrenimi/makine-oegrenimine-giris.md)
   * [🚶‍ SciKit-Learn'e Giriş](makine-oegrenimi/scikit-learne-giris.md)
