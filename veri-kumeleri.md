@@ -2,7 +2,7 @@
 description: Veri Kümeleri (Datasets) hakkında faydalı bilgiler
 ---
 
-# 💽 Veri Kümeleri
+# 🗃️ Veri Kümeleri
 
 ## Veri Kümeleri
 
@@ -22,6 +22,7 @@ We provide a collection of detection models pre-trained on the [COCO dataset](ht
 
 ## Linkler
 
+* [Tensorflow Datasets](https://github.com/tensorflow/datasets)
 * [Kaggle](https://www.kaggle.com)
 * [ABD açık veri](https://www.data.gov/)
 * [COCO](http://cocodataset.org/)
