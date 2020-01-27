@@ -14,6 +14,7 @@
   * [🚅 Serileştirmiş Veriler](veri-tipleri/pickle.md)
   * [🔢 NumPy Verileri](veri-tipleri/numpy.md)
 * [👨‍💼 Veri Yönetimi](veri-yonetimi/README.md)
+  * [🗃️ SQL](veri-yonetimi/sql.md)
   * [🔢 NumPy](veri-yonetimi/numpy/README.md)
     * [🔰 Giriş \| Numpy](veri-yonetimi/numpy/giris-or-numpy.md)
     * [🚅 Diziler \| Numpy](veri-yonetimi/numpy/diziler-or-numpy.md)
