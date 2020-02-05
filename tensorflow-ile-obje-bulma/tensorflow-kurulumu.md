@@ -14,7 +14,7 @@ description: >-
 
 ## 💚 Anaconda Kurulumu
 
-{% embed url="https://python.yemreak.com/anaconda/anacondaya-giris" %}
+{% embed url="https://python.yemreak.com/anaconda/anacondaya-giris" caption="Anaconda\'ya giriş" %}
 
 ## 💛 Tensorflow CPU veya GPU Kurulumu
 
