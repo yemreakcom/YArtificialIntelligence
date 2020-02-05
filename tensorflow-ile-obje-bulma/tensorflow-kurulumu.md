@@ -6,7 +6,7 @@ description: >-
 
 # 🚧 Tensorflow Kurulumu
 
-💘 Önemli Hususlar
+## 💘 Önemli Hususlar
 
 * Tensorflow anaconda üzerinden daha sağlıklı, taşınabilir ve verimli çalışabilmekte
 * Anaconda'nın sanal ortamları, paketlerin çakışmasını engelleyecektir
