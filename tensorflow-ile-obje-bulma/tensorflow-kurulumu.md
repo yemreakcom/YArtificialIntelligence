@@ -8,9 +8,9 @@ description: >-
 
 ## 💘 Önemli Hususlar
 
-* Tensorflow anaconda üzerinden daha sağlıklı, taşınabilir ve verimli çalışabilmekte
-* Anaconda'nın sanal ortamları, paketlerin çakışmasını engelleyecektir
-* Anaconda'nın Tensorflow'daki avantajı için [buraya](https://www.anaconda.com/tensorflow-in-anaconda/) göz atabilirsin.
+* 📈 Tensorflow anaconda üzerinden daha sağlıklı, taşınabilir ve verimli çalışabilmekte
+* 👮‍♂️ Anaconda'nın sanal ortamları, paketlerin çakışmasını engelleyecektir
+* 👀 Anaconda'nın Tensorflow'daki avantajı için [buraya](https://www.anaconda.com/tensorflow-in-anaconda/) göz atabilirsin.
 
 ## 💚 Anaconda Kurulumu
 
@@ -18,9 +18,9 @@ description: >-
 
 ## 💛 Tensorflow CPU veya GPU Kurulumu
 
-* Bu kurulum CPU kurulumu olarak da geçmekte
-* GPU kurulumu CPU'ya nazaran oldukça hızlı eğitim seçeneği sağlar
-* GPU kurulumu için gereksinimleri sağlıyorsanız GPU kurulumu \(tensorflow-gpu\) yapmanız tavsiye edilir
+* 💁‍♂️ Bu kurulum CPU kurulumu olarak da geçmekte
+* 💨 GPU kurulumu CPU'ya nazaran oldukça hızlı eğitim seçeneği sağlar
+* 📢 GPU kurulumu için gereksinimleri sağlıyorsanız GPU kurulumu \(tensorflow-gpu\) yapmanız tavsiye edilir
 
 ### 🚧 Sanal Ortam Oluşturma ve Üzerine Kurma
 
