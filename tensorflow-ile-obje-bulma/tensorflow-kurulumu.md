@@ -1,6 +1,12 @@
+---
+description: >-
+  Anadonca (Miniconda) ve Tensorflow uygulamalarının kurulumu, kurulum sonucunu
+  test etme ve birlikte çalıştırma
+---
+
 # 🚧 Tensorflow Kurulumu
 
-## 💘 Önemli Hususlar
+💘 Önemli Hususlar
 
 * Tensorflow anaconda üzerinden daha sağlıklı, taşınabilir ve verimli çalışabilmekte
 * Anaconda'nın sanal ortamları, paketlerin çakışmasını engelleyecektir
