@@ -2,7 +2,7 @@
 description: Çok hevesle yaklaşılan makine öğreniminin ne olduğuna basitçe bir yaklaşım.
 ---
 
-# 🏂 Makine Öğrenimine Giriş
+# 🔰 Makine Öğrenimine Giriş
 
 ## 👀 Kavramlara Göz Atalım
 

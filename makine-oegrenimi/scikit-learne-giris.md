@@ -2,7 +2,7 @@
 description: Makine öğrenimi uygulamak için önceden hazırlanmış python paketine giriş.
 ---
 
-# 🚴‍♂️ SciKit-Learn'e Giriş
+# 🚶‍ SciKit-Learn'e Giriş
 
 ## ❔ SciKit-Learn Nasıl Çalışır?
 
