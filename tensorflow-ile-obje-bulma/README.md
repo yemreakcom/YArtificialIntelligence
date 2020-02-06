@@ -4,5 +4,5 @@ description: >-
   talimatlarım
 ---
 
-# 🕵️‍♂️ Tensorflow Object Detection API ile Obje Bulma
+# 🕵️‍♂️ Tensorflow ile Obje Bulma
 

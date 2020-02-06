@@ -35,7 +35,7 @@
   * [🏂 Makine Öğrenimine Giriş](makine-oegrenimi/makine-oegrenimine-giris.md)
   * [🚴‍♂️ SciKit-Learn'e Giriş](makine-oegrenimi/scikit-learne-giris.md)
   * [📉 SciKit-Learn](makine-oegrenimi/scikit-learn.md)
-* [🕵️‍♂️ Tensorflow Object Detection API ile Obje Bulma](tensorflow-ile-obje-bulma/README.md)
+* [🕵️‍♂️ Tensorflow ile Obje Bulma](tensorflow-ile-obje-bulma/README.md)
   * [🚧 Tensorflow Kurulumu](tensorflow-ile-obje-bulma/tensorflow-kurulumu.md)
   * [🚧 Tensorflow Algılama Modellerinin Kurulumu](tensorflow-ile-obje-bulma-1/tensorflow-algilama-modellerinin-kurulumu.md)
   * [💷 LabelImg Kurulumu](tensorflow-ile-obje-bulma-1/labelimg-kurulumu.md)
