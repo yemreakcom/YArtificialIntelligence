@@ -4,9 +4,9 @@
 
 Özelleştirilmiş model eğitmek için alttakilerin yapılmış olması gerekmektedir:
 
-* [🚧 Tensorflow Kurulumu](tek-sayfa-anlatim.md#tensorflow-kurulumu)
-* [🚧 Tensorflow Algılama Modellerinin Kurulumu](tek-sayfa-anlatim.md#tensorflow-algilama-modellerinin-kurulumu)
-* [💷 LabelImg Kurulumu](tek-sayfa-anlatim.md#labelimg-kurulumu)
+* [🚧 Tensorflow Kurulumu](../yazilarim/tensorflow-object-detection-api-ile-obje-bulma.md#tensorflow-kurulumu)
+* [🚧 Tensorflow Algılama Modellerinin Kurulumu](../yazilarim/tensorflow-object-detection-api-ile-obje-bulma.md#tensorflow-algilama-modellerinin-kurulumu)
+* [💷 LabelImg Kurulumu](../yazilarim/tensorflow-object-detection-api-ile-obje-bulma.md#labelimg-kurulumu)
 
 ## 🎴 Resim Etiketleme
 
