@@ -29,10 +29,6 @@ set TENSORFLOW=<dizin_yolu>
 {% tab title="👩‍💻 Kod ile Dizin Oluşturma" %}
 İlerideki yapı için bu dizinin yolu `%TENSORFLOW%` olarak ifade edilecektir.
 
-{% hint style="success" %}
-Düzgün ve verimli çalışmak için buradaki yapıyı kullanmanız önerilir.
-{% endhint %}
-
 ```text
 mkdir %TENSORFLOW%\workspace\example_detection
 mkdir %TENSORFLOW%\workspace\example_detection\data
@@ -40,6 +36,10 @@ mkdir %TENSORFLOW%\workspace\example_detection\images\train
 mkdir %TENSORFLOW%\workspace\example_detection\images\eval
 mkdir %TENSORFLOW%\workspace\example_detection\models
 ```
+
+{% hint style="success" %}
+Düzgün ve verimli çalışmak için buradaki yapıyı kullanmanız önerilir.
+{% endhint %}
 {% endtab %}
 
 {% tab title="📂 Temel Yapı" %}

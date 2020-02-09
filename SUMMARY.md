@@ -39,7 +39,7 @@
   * [🚧 Tensorflow Kurulumu](tensorflow-ile-obje-bulma/tensorflow-kurulumu.md)
   * [🚧 Tensorflow Algılama Modellerinin Kurulumu](tensorflow-ile-obje-bulma-1/tensorflow-algilama-modellerinin-kurulumu.md)
   * [💷 LabelImg Kurulumu](tensorflow-ile-obje-bulma-1/labelimg-kurulumu.md)
-  * [📂 Dizin Yapısını Oluşturma](tensorflow-ile-obje-bulma-1/dizin-yapisini-olusturma.md)
+  * [📂 Dizin Yapısını Oluşturma](tensorflow-ile-obje-bulma/dizin-yapisini-olusturma.md)
   * [👨‍🏫 Özelleştirilmiş Tensorflow Obje Algılayıcısı Eğitme](tensorflow-ile-obje-bulma-1/oezellestirilmis-tensorflow-obje-algilayicisi-egitme.md)
   * [📃 Tensorflow Kayıtları Oluşturma](tensorflow-ile-obje-bulma-1/tensorflow-kayitlari-olusturma.md)
   * [🍢 Pipeline Yapılandırma](tensorflow-ile-obje-bulma-1/pipeline-yapilandirma.md)
