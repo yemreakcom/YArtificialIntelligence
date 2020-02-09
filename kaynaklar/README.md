@@ -1,2 +1,2 @@
-# ⭐ Kaynaklar
+# 📚 Kaynaklar
 

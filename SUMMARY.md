@@ -3,7 +3,7 @@
 * [🧠 Yapay Zeka Notlarım](README.md)
 * [✍ Yazılarım](yazilarim/README.md)
   * [🕵️‍♂️ Tensorflow Object Detection API ile Obje Bulma](yazilarim/tensorflow-object-detection-api-ile-obje-bulma.md)
-* [⭐ Kaynaklar](kaynaklar/README.md)
+* [📚 Kaynaklar](kaynaklar/README.md)
   * [🌟 Faydalı Kaynaklar](kaynaklar/faydali-kaynaklar.md)
   * [💫 Derin Öğrenme Notları](https://dltr.asmaamir.com/)
   * [📙 Yapay Zeka Çalışma Notları](https://github.com/YEmreAk/AI-NoteBooks)
@@ -71,6 +71,7 @@
   * [🌠 YTensorflow](https://github.com/yedhrab/YTensorflow)
   * [⭐ Colab Üzerinden Tensorflow](https://colab.research.google.com/drive/1JvMqUga8ALUF-YwPp4gPVZ8SjxsOoFad)
 * [⭐ Ek Bilgiler](ek-bilgiler.md)
+* [🕵️‍♂️ Araştırmalarım](arastirmalarim.md)
 
 ## Derlenmiş Çalışmalarım
 
