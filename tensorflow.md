@@ -1,8 +1,8 @@
 ---
-description: "Tensorflow notlarım \U0001F468‍\U0001F52C"
+description: Tensorflow notlarım
 ---
 
-# ⚡ Tensorflow
+# ⚡ Tensorflow \(👨‍🔬 Beta\)
 
 ## 🚩 Tensorflow Çalışma Yolu
 
