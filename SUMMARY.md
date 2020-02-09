@@ -46,7 +46,7 @@
   * [👨‍🏫 Modeli Eğitime](tensorflow-object-detection-api/modeli-egitime.md)
   * [🌠 Colab Üzerinden Tensorflow](tensorflow-object-detection-api/colab-uezerinden-tensorflow.md)
   * [🐞 Hata Notları](tensorflow-object-detection-api/hata-notlari.md)
-* [🧠 DeepLearning.ai](deeplearning.ai/README.md)
+* [🤯 Teorik Notlar](deeplearning.ai/README.md)
   * [📝 Kişisel Notlarım](deeplearning.ai/kisisel/README.md)
     * [📉 Logistic Regression](deeplearning.ai/kisisel/logistic-regression.md)
     * [⏬ Coursera Çalışma Dosyalarını İndirme](deeplearning.ai/kisisel/coursera-calisma-dosyalarini-indirme.md)
