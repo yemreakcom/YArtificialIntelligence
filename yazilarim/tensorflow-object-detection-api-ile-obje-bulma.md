@@ -6,6 +6,15 @@ description: >-
 
 # 🕵️‍♂️ Tensorflow Object Detection API ile Obje Bulma
 
+![](../.gitbook/assets/tensorflow.png)
+
+## 📢 Önemli Duyuru
+
+* 💥 Bu yazının güncel hali verimliliği artırma adına parçalara ayrılmıştır
+* 👮‍♂️ Güncel hali [🕵️‍ Tensorflow Object Detection API](../tensorflow-object-detection-api/) alanında derlenmektedir
+
+{% page-ref page="../tensorflow-object-detection-api/" %}
+
 ## 🚧 Tensorflow Kurulumu
 
 * Tensorflow anaconda üzerinden daha sağlıklı, taşınabilir ve verimli çalışabilmekte
