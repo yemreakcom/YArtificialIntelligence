@@ -46,6 +46,7 @@
   * [👨‍🏫 Modeli Eğitime](tensorflow-object-detection-api/modeli-egitime.md)
   * [🌠 Colab Üzerinden Tensorflow](tensorflow-object-detection-api/colab-uezerinden-tensorflow.md)
   * [🐞 Hata Notları](tensorflow-object-detection-api/hata-notlari.md)
+* [⚡ Tensorflow](tensorflow.md)
 * [🚀 Kişisel Projelerim](kisisel-projelerim/README.md)
   * [🧠 Yapay Zeka Çalışmalarım](https://github.com/YEmreAk/AI-Notebooks)
   * [🕵️‍♂️ Fotoşop Bulma](https://github.com/yedhrab/CompelloStajNotlari)
