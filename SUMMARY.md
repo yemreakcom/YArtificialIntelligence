@@ -51,7 +51,7 @@
   * [🧠 Yapay Zeka Çalışmalarım](https://github.com/YEmreAk/AI-Notebooks)
   * [🕵️‍♂️ Fotoşop Bulma](https://github.com/yedhrab/CompelloStajNotlari)
   * [🚗 YSelfDrivenCarCourse](https://github.com/yedhrab/YSelfDrivenCarCourse)
-  * [🌠 YTensorflowObjectDetectionAPI](https://github.com/yedhrab/YTensorflowObjectDetectionAPI)
+  * [🕵️‍♂️ YTensorflow Object Detection API](https://github.com/yedhrab/YTensorflowObjectDetectionAPI)
   * [⭐ Colab Üzerinden Tensorflow](https://colab.research.google.com/drive/1JvMqUga8ALUF-YwPp4gPVZ8SjxsOoFad)
 * [🤯 Teorik Notlar](deeplearning.ai/README.md)
   * [📝 Kişisel Notlarım](deeplearning.ai/kisisel/README.md)
