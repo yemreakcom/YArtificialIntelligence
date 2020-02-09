@@ -7,7 +7,7 @@ description: "Tensorflow notlarım \U0001F468‍\U0001F52C"
 ## 🚩 Tensorflow Çalışma Yolu
 
 * [📖 Introduction to Tensorflow](https://www.tensorflow.org/learn) içerisinde TensorFlow ecosystem kısmında temel adımları öğrenebilirsiniz
-* 
+
 ## 🔗 Faydalı Kaynaklar
 
 * [📖 Introduction to Tensorflow](https://www.tensorflow.org/learn)
