@@ -4,7 +4,7 @@ description: >-
   talimatlarım
 ---
 
-# 📃 Tek Sayfa Anlatım
+# 🕵️‍♂️ Tensorflow Object Detection API ile Obje Bulma
 
 ## 🚧 Tensorflow Kurulumu
 
@@ -406,17 +406,13 @@ Her bir model için ayrı dizinler oluşturulur.
 {% endtab %}
 {% endtabs %}
 
-{% hint style="info" %}
-
-{% endhint %}
-
 ## 👨‍🏫 Özelleştirilmiş Tensorflow Obje Algılayıcısı Eğitme
 
 Özelleştirilmiş model eğitmek için alttakilerin yapılmış olması gerekmektedir:
 
-* [🚧 Tensorflow Kurulumu](tek-sayfa-anlatim.md#tensorflow-kurulumu)
-* [🚧 Tensorflow Algılama Modellerinin Kurulumu](tek-sayfa-anlatim.md#tensorflow-algilama-modellerinin-kurulumu)
-* [💷 LabelImg Kurulumu](tek-sayfa-anlatim.md#labelimg-kurulumu)
+* [🚧 Tensorflow Kurulumu](tensorflow-object-detection-api-ile-obje-bulma.md#tensorflow-kurulumu)
+* [🚧 Tensorflow Algılama Modellerinin Kurulumu](tensorflow-object-detection-api-ile-obje-bulma.md#tensorflow-algilama-modellerinin-kurulumu)
+* [💷 LabelImg Kurulumu](tensorflow-object-detection-api-ile-obje-bulma.md#labelimg-kurulumu)
 
 {% tabs %}
 {% tab title="🎴 Resim Etiketleme" %}

@@ -2,7 +2,7 @@
 
 * [🧠 Yapay Zeka Notlarım](README.md)
 * [✍ Yazılarım](yazilarim/README.md)
-  * [🕵️‍♂️ Tensorflow Object Detection API ile Obje Bulma](tensorflow-ile-obje-bulma-1/tek-sayfa-anlatim.md)
+  * [🕵️‍♂️ Tensorflow Object Detection API ile Obje Bulma](yazilarim/tensorflow-object-detection-api-ile-obje-bulma.md)
 * [⭐ Kaynaklar](kaynaklar/README.md)
   * [🌟 Faydalı Kaynaklar](kaynaklar/faydali-kaynaklar.md)
   * [💫 Derin Öğrenme Notları](https://dltr.asmaamir.com/)
@@ -35,7 +35,7 @@
   * [🏂 Makine Öğrenimine Giriş](makine-oegrenimi/makine-oegrenimine-giris.md)
   * [🚴‍♂️ SciKit-Learn'e Giriş](makine-oegrenimi/scikit-learne-giris.md)
   * [📉 SciKit-Learn](makine-oegrenimi/scikit-learn.md)
-* [🕵️‍♂️ Tensorflow ile Obje Bulma](tensorflow-ile-obje-bulma/README.md)
+* [🕵️‍♂️ Tensorflow Object Detection API](tensorflow-ile-obje-bulma/README.md)
   * [🚧 Tensorflow Kurulumu](tensorflow-ile-obje-bulma/tensorflow-kurulumu.md)
   * [🚧 Tensorflow Algılama Modellerinin Kurulumu](tensorflow-ile-obje-bulma-1/tensorflow-algilama-modellerinin-kurulumu.md)
   * [💷 LabelImg Kurulumu](tensorflow-ile-obje-bulma-1/labelimg-kurulumu.md)
