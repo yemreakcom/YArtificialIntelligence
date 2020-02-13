@@ -14,6 +14,15 @@ description: Tensorflow notlarım
 
 {% embed url="https://github.com/Amin-Tgz/awesome-tensorflow-2" %}
 
+## 📺 Video Kursları
+
+* [Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+* [💰 TensorFlow in Practice Specialization](https://www.coursera.org/specializations/tensorflow-in-practice?utm_source=deeplearningai&utm_medium=institutions&utm_campaign=TFWebsiteTFSHomepageButton#courses)
+* [📺 Tensorflow ~ Youtube](https://www.youtube.com/tensorflow/)
+* [Practical Machine Learning with TensorFlow 2.0 Alpha](https://blog.udacity.com/2019/03/learn-tensorflow-for-deep-learning-applications.html)
+* [👨‍💻 TF2 Course ~ GitHub](https://github.com/ageron/tf2_course)
+* [👨‍💻 Tensorflow Resources ~ GitHub](https://github.com/tensorflow/tensorflow#resources)
+
 ## 🔗 Faydalı Kaynaklar
 
 * [📖 Introduction to Tensorflow](https://www.tensorflow.org/learn)
