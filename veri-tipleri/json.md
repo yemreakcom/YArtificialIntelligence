@@ -2,7 +2,7 @@
 description: 'Web üzerindeki JavaScript verileri (json) yapısı, okuma ve temel işlemler'
 ---
 
-# 🌍 JavaScript Verileri
+# 📜 JSON \| Veri Bilimi
 
 ## ❔ JSON Nedir
 

@@ -1,4 +1,8 @@
-# 📚  Sıkıştırılmış Veriler
+---
+description: 'Sıkıştırılmış veri yapıları (zip, tar.gz)  ve onları işleme'
+---
+
+# 📚  GZip \| Veri Bilimi
 
 ## 💎 Sıkıştırılmış Veri Formatı \(`gzip`\)
 
