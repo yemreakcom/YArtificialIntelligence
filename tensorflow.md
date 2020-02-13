@@ -23,6 +23,10 @@ description: Tensorflow notlarım
 * [👨‍💻 TF2 Course ~ GitHub](https://github.com/ageron/tf2_course)
 * [👨‍💻 Tensorflow Resources ~ GitHub](https://github.com/tensorflow/tensorflow#resources)
 
+{% hint style="success" %}
+🚀 Bu alandaki bağlantılar [YEmoji ~Bağlantılar](https://emoji.yemreak.com/kullanim/baglantilar) yapısına uygundur
+{% endhint %}
+
 ## 🔗 Faydalı Kaynaklar
 
 * [📖 Introduction to Tensorflow](https://www.tensorflow.org/learn)
