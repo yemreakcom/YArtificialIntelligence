@@ -12,6 +12,8 @@ description: Tensorflow notlarım
 
 {% embed url="https://www.tensorflow.org/tutorials" %}
 
+{% embed url="https://github.com/Amin-Tgz/awesome-tensorflow-2" %}
+
 ## 🔗 Faydalı Kaynaklar
 
 * [📖 Introduction to Tensorflow](https://www.tensorflow.org/learn)
