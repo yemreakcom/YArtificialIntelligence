@@ -1,4 +1,8 @@
-# 📊 Tablo İşlemleri
+---
+description: DataFrame üzerinden tablosal işlemler ve verilerin yönetimi
+---
+
+# 📊 Tablo İşlemleri \| Pandas
 
 ### Tablo Oluşturma
 

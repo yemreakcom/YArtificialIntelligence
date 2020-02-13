@@ -1,4 +1,8 @@
-# 🗃️ Veri İşlemleri
+---
+description: 'Pandas ile temel veri okuma, yazma ve değiştirme'
+---
+
+# 🗃️ Veri İşlemleri \| Pandas
 
 ## 👀 Verileri Okuma
 

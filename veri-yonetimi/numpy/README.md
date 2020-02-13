@@ -1,4 +1,4 @@
-# 🔢 NumPy
+# 🔢 NumPy \| Veri Yönetimi
 
 ## ❔ NumPy Nedir <a id="numpy-nedir"></a>
 

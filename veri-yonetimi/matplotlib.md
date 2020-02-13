@@ -1,4 +1,4 @@
-# 📈 Matplotlib
+# 📈 Matplotlib \| Veri Yönetimi
 
 ## 🔰 Ne İşe Yarar <a id="nedir"></a>
 

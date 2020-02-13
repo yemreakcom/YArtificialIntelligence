@@ -2,7 +2,7 @@
 description: Veri yönetimi için SQL notlarım
 ---
 
-# 🗃️ SQL
+# 🗃️ SQL \| Veri Yönetimi
 
 ## 🔗 Faydalı Kaynaklar
 

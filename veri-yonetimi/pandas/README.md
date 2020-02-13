@@ -1,2 +1,2 @@
-# 🐼 Pandas
+# 🐼 Pandas \| Veri Yönetimi
 
