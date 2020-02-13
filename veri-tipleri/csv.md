@@ -2,7 +2,7 @@
 description: 'Tablo (csv) oluşturma, okuma ve temel kullanım'
 ---
 
-# 📅 Tablolar \| Veri Bilimi
+# 📅 CSV \| Veri Bilimi
 
 ## 🧱 Temel Bilgiler
 

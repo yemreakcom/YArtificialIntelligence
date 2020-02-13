@@ -1,8 +1,4 @@
----
-description: NumPy veri formatı ve onları işleme
----
-
-# 🔢 NumPy \| Veri Bilimi
+# 🔢 NumPy Verileri
 
 ## 💎 Dosya Formatı \(`numpy`\)
 

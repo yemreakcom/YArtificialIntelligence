@@ -11,7 +11,7 @@
   * [⚡ Awesome Tensorflow 2](https://github.com/Amin-Tgz/awesome-tensorflow-2)
 * [📊 Veri Tipleri](veri-tipleri/README.md)
   * [🔰 Giriş \| Veri Bilimi](veri-tipleri/giris.md)
-  * [📅 Tablolar \| Veri Bilimi](veri-tipleri/csv.md)
+  * [📅 CSV \| Veri Bilimi](veri-tipleri/csv.md)
   * [📜 JSON \| Veri Bilimi](veri-tipleri/json.md)
   * [📚  GZip \| Veri Bilimi](veri-tipleri/gzip.md)
   * [🚅 Pickle \| Veri Bilimi](veri-tipleri/pickle.md)
