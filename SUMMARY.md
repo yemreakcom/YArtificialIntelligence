@@ -1,6 +1,7 @@
 # Table of contents
 
 * [🧠 Yapay Zeka Notlarım](README.md)
+* [👀 Neler değişti](CHANGELOG.md)
 * [✍ Yazılarım](yazilarim/README.md)
   * [🕵️‍♂️ Tensorflow Object Detection API ile Obje Bulma](yazilarim/tensorflow-object-detection-api-ile-obje-bulma.md)
 * [📚 Kaynaklar](kaynaklar/README.md)
