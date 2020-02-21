@@ -1,6 +1,6 @@
 # 📂 Dizin Yapısını Oluşturma
 
-### 🌃 Tensorflow Dizininizi Geçici Ortam Değişkenlerine Ekleme
+## 🌃 Tensorflow Dizininizi Geçici Ortam Değişkenlerine Ekleme
 
 {% tabs %}
 {% tab title="⚡ Hızlı İşlem" %}
@@ -23,7 +23,7 @@ set TENSORFLOW=<dizin_yolu>
 {% endtab %}
 {% endtabs %}
 
-### 🧱 Temel Klasörlerin Oluşturulması
+## 🧱 Temel Klasörlerin Oluşturulması
 
 {% tabs %}
 {% tab title="👩‍💻 Kod ile Dizin Oluşturma" %}

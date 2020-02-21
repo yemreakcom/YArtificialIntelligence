@@ -8,7 +8,7 @@ description: Google Collaboratory üzerinden tensorflow modelini eğitme
 
 Colab ücretsiz GPU sunduğu için çok hızlı bir eğitim imkanı sunar.
 
-{% embed url="https://wiki.yemreak.com/google-notlari/google-colabrotory" %}
+{% embed url="https://wiki.yemreak.com/google-notlari/google-colabrotory" caption="" %}
 
 ## 📂 Colab Eğitimi için Gereken Dosyalar <a id="colab-egitimi-icin-gereken-dosyalar"></a>
 
@@ -19,7 +19,7 @@ Colab ücretsiz GPU sunduğu için çok hızlı bir eğitim imkanı sunar.
 * model\_main.py \(eskisi: train.py\)
 * export\_inference\_graph.py
 
-## 👩‍💻 Colab Üzerinden Eğitim Kodları <a id="colab-uezerinden-egitim-kodlari"></a>
+## 👩‍💻 Colab Üzerinden Eğitim Kodları <a id="colab-uzerinden-egitim-kodlari"></a>
 
-{% embed url="https://colab.research.google.com/drive/1JvMqUga8ALUF-YwPp4gPVZ8SjxsOoFad" %}
+{% embed url="https://colab.research.google.com/drive/1JvMqUga8ALUF-YwPp4gPVZ8SjxsOoFad" caption="" %}
 

@@ -67,16 +67,15 @@ cd %TENSORFLOW%\models\research\
 
 ## ✨ Protobuff'ların İşlenmesi
 
-Protobuf dosyaları \(`.proto` uzantılı olan dosyalar\) python kodlanı oluşturmak için kullanılan dosyalardır.
-
-{% hint style="warning" %}
-İşlemler `TensorFlow/models/research/` dizininde yapılmalıdır
-{% endhint %}
+* 📃 Protobuf dosyaları \(`.proto` uzantılı olan dosyalar\) 
+* 👨‍💻 Python kodlarını oluşturmak için kullanılan dosyalardır.
+* 📢 İşlemler `TensorFlow/models/research/` dizininde yapılmalıdır
 
 {% tabs %}
 {% tab title="🎇 Windows" %}
 ```bash
-for /f %i in ('dir /b object_detection\protos\*.proto') do protoc object_detection\protos\%i --python_out=.
+for /f %i in ('dir /b object_detection\protos\*.proto') ^
+do protoc object_detection\protos\%i --python_out=.
 ```
 {% endtab %}
 
@@ -102,42 +101,48 @@ python setup.py install
 
 Ortam değişkenleri 2 farklı yöntemle tanımlanabilir.
 
-{% tabs %}
-{% tab title="✨ Geçici Tanımlama" %}
+### ✨ Geçici Tanımlama
+
 ```bash
-set PYTHONPATH=%PYTHONPATH%;%TENSORFLOW%\models\research;%TENSORFLOW%\models\research\slim;%TENSORFLOW%\models\research\object_detection
+set PYTHONPATH=%PYTHONPATH%;%TENSORFLOW%\models\research;^
+%TENSORFLOW%\models\research\slim;^
+%TENSORFLOW%\models\research\object_detection
 ```
 
 {% hint style="warning" %}
-Bu ortam değişkenlerinin **terminalin her açılışında yazılması** gerekmektedir.
+📢 Terminal her açıldığında yapılması gerekmektedir
 {% endhint %}
-{% endtab %}
 
-{% tab title="💫 Otomatik Tanımlama" %}
+### 💫 Otomatik Tanımlama
+
 * Her `conda activate <ortam_ismi>` komutu yazıldığında ortamlar dahil edilir
 * Her `conda deactivate` yazıldığında ortamlar kaldırılır
 * `<conda_ortamı_yolu>` Conda ortamının kurulduğu yol
-  * _Örn: %USERPROFILE%\Anaconda3\envs\tensorflow-cpu_
+  * _Örn: `%USERPROFILE%\Anaconda3\envs\tensorflow-cpu`_
 
 {% hint style="info" %}
-Resmi kaynak için [buraya](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#saving-environment-variables) bakabilirsin.
+‍🧙‍♂ Resmi kaynak için [buraya](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#saving-environment-variables) bakabilirsin.
 {% endhint %}
 
-### 🎇 Windows:
-
+{% tabs %}
+{% tab title="🎇 Windows" %}
 ```bash
 cd <conda_ortamı_yolu>
 mkdir .\etc\conda\activate.d
-echo set PYTHONPATH=%TENSORFLOW%\models\research;%TENSORFLOW%\models\research\slim;%TENSORFLOW%\models\research\object_detection > .\etc\conda\activate.d\env_vars.bat
+echo set PYTHONPATH=%TENSORFLOW%\models\research;^
+%TENSORFLOW%\models\research\slim;^
+%TENSORFLOW%\models\research\object_detection > .\etc\conda\activate.d\env_vars.bat
 ```
+{% endtab %}
 
-### 🐧 Linux
-
+{% tab title="🐧 Linux" %}
 ```bash
 cd <conda_ortamı_yolu>
 mkdir -p ./etc/conda/activate.d
 mkdir -p ./etc/conda/deactivate.d
-echo export PYTHONPATH=${PYTHONPATH}:${TENSORFLOW}/models/research:${TENSORFLOW}/models/research/slim:${TENSORFLOW}/models/research/object_detection > etc/conda/activate.d/env_vars.sh
+echo export PYTHONPATH=${PYTHONPATH}:${TENSORFLOW}/models/research:\
+${TENSORFLOW}/models/research/slim:\
+${TENSORFLOW}/models/research/object_detection > etc/conda/activate.d/env_vars.sh
 echo unset PYTHONPATH > etc/conda/deactivate.d/env_vars.sh
 ```
 {% endtab %}
@@ -153,8 +158,6 @@ jupyter notebook
 ```
 
 {% hint style="info" %}
-Jupyter notebook hakkında bilgi sahibi değilsen [buraya](https://www.youtube.com/watch?v=COlbP62-B-U&feature=youtu.be&t=7m23s) tıklayarak ne yapman gerektiğini öğrenebilirsin.
+‍🧙‍♂ Jupyter notebook hakkında bilgi sahibi değilsen [buraya](https://www.youtube.com/watch?v=COlbP62-B-U&feature=youtu.be&t=7m23s) tıklayarak ne yapman gerektiğini öğrenebilirsin.
 {% endhint %}
-
-
 

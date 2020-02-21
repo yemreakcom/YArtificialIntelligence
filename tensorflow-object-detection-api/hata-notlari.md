@@ -10,7 +10,7 @@ description: Tensorflow için hata notları
 
 ## '...' is not recognized as an internal or external command
 
-[Gerekli Paketlerin Kurulumları]() tamamlanmadığı için bu hata ile karşılaşıyor olabilirsiniz.
+[Gerekli Paketlerin Kurulumları](hata-notlari.md) tamamlanmadığı için bu hata ile karşılaşıyor olabilirsiniz.
 
 ## 'ImportError: No module named' Hataları
 
@@ -20,7 +20,7 @@ PythonPath ayarlanmadığı için bu hata ile karşılaşmaktasınız.
 set PYTHONPATH=%TENSORFLOW%\models\research;%TENSORFLOW%\models\research\slim;%TENSORFLOW%\models\research\object_detection
 ```
 
-> Dökümandaki ilgili alana yönelmek için [buraya]() tıklayabilrisin.
+> Dökümandaki ilgili alana yönelmek için [buraya](hata-notlari.md) tıklayabilrisin.
 
 ## 'dict\_keys' object does not support indexing
 

@@ -4,9 +4,9 @@
 
 Özelleştirilmiş model eğitmek için alttakilerin yapılmış olması gerekmektedir:
 
-* [🚧 Tensorflow Kurulumu](../yazilarim/tensorflow-object-detection-api-ile-obje-bulma.md#tensorflow-kurulumu)
-* [🚧 Tensorflow Algılama Modellerinin Kurulumu](../yazilarim/tensorflow-object-detection-api-ile-obje-bulma.md#tensorflow-algilama-modellerinin-kurulumu)
-* [💷 LabelImg Kurulumu](../yazilarim/tensorflow-object-detection-api-ile-obje-bulma.md#labelimg-kurulumu)
+* [🚧 Tensorflow Kurulumu](https://github.com/yedhrab/YTensorflowObjectDetectionAPI/tree/04161e22f1d43c9b9f6056870a6361cc3791ae9a/yazilarim/tensorflow-object-detection-api-ile-obje-bulma.md#tensorflow-kurulumu)
+* [🚧 Tensorflow Algılama Modellerinin Kurulumu](https://github.com/yedhrab/YTensorflowObjectDetectionAPI/tree/04161e22f1d43c9b9f6056870a6361cc3791ae9a/yazilarim/tensorflow-object-detection-api-ile-obje-bulma.md#tensorflow-algilama-modellerinin-kurulumu)
+* [💷 LabelImg Kurulumu](https://github.com/yedhrab/YTensorflowObjectDetectionAPI/tree/04161e22f1d43c9b9f6056870a6361cc3791ae9a/yazilarim/tensorflow-object-detection-api-ile-obje-bulma.md#labelimg-kurulumu)
 
 ## 🎴 Resim Etiketleme
 
@@ -57,6 +57,4 @@ item {  id: 1  name: 'cat'}item {  id: 2  name: 'dog'}
 {% hint style="info" %}
 `cat` ve `dog` etiket isimleridir
 {% endhint %}
-
-
 

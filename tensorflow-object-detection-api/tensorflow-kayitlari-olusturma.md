@@ -19,17 +19,49 @@
 
 Resimlerde hata olduğu zaman eğitim aşamasında tensorflow modeli çalışma hatası vermektedir. Resimleri kontrol etmek için [buradaki](https://github.com/yedhrab/YArtificalIntelligent/tree/f5ce601da28961f26a48e137783188839c9f5600/3%20-%20Tensorflow/scripts/preprocessing/check_images.py) scripti alttaki komutlarla kullanabilirsiniz.
 
+{% tabs %}
+{% tab title="✴️ Windows" %}
 ```text
-python scripts\preprocessing\check_images.py -i workspace\example_detection\images\train​python scripts\preprocessing\check_images.py -i workspace\example_detection\images\eval
+python scripts\preprocessing\check_images.py ^
+    -i workspace\example_detection\images\train​
+python scripts\preprocessing\check_images.py ^
+    -i workspace\example_detection\images\eval
 ```
+{% endtab %}
+
+{% tab title="🐧 Linux" %}
+```
+python scripts\preprocessing\check_images.py \
+    -i workspace/example_detection/images/train​
+python scripts\preprocessing\check_images.py \
+    -i workspace/example_detection/images/eval
+```
+{% endtab %}
+{% endtabs %}
 
 ## **👨‍🔧 Verileri Yeniden Adlandırma ve XML Hatalarını Düzeltme**
 
 LabelImg ile etiketlediğiniz resimleri farklı bir dizine taşımanız durumunda XML dosyalarındaki yollar uyuşmayacaktır. XML dosya yollarını düzeltmek, etiketsiz resimleri görüntülemek için [buradaki](https://github.com/yedhrab/YArtificalIntelligent/tree/f5ce601da28961f26a48e137783188839c9f5600/3%20-%20Tensorflow/scripts/preprocessing/xml_path_regulator.py) script dosyamı alttaki komutlar ile kullanabilirsiniz.
 
+{% tabs %}
+{% tab title="✴️ Windows" %}
 ```text
-python scripts\preprocessing\xml_path_regulator.py -i %TENSORFLOW%\workspace\example_detection\images\train  -p train​python scripts\preprocessing\xml_path_regulator.py -i %TENSORFLOW%\workspace\example_detection\images\eval  -p eval
+python scripts\preprocessing\xml_path_regulator.py ^
+-i %TENSORFLOW%\workspace\example_detection\images\train ^
+-p train​python scripts\preprocessing\xml_path_regulator.py ^
+-i %TENSORFLOW%\workspace\example_detection\images\eval  -p eval
 ```
+{% endtab %}
+
+{% tab title="🐧 Linux" %}
+```
+python scripts/preprocessing/xml_path_regulator.py \
+-i %TENSORFLOW%/workspace/example_detection/images/train \
+-p train​python scripts/preprocessing/xml_path_regulator.py \
+-i %TENSORFLOW%/workspace/example_detection/images/eval  -p eval
+```
+{% endtab %}
+{% endtabs %}
 
 ## **🧐 Etiketlenmemiş Resimleri Bulma**
 
@@ -63,7 +95,13 @@ Her bir etiketten kaç tane olduğunu anlamak için csv dosyalarını açıp all
 * Tablo'dan etiketlenen verileri kontrol edin
 * Fazladan etiketlenmiş verilerin ismini bulup, filename, width vs. verilerin yazıldığı alanda `CTRL` + `F` komutu ile aratıp, uygun dosya ismini ve `xml` dosyasını silin
 
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LtFvhrURZC-q-L1-hz0%2F-LtPfR1qFi8AK6pBijty%2F-LtPugZ3XPt8YOD7XpX-%2Fimage.png?alt=media&token=c96ab80b-a407-494c-a885-ca8fd60624e9)![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LtFvhrURZC-q-L1-hz0%2F-LtPfR1qFi8AK6pBijty%2F-LtPujWd3zDuenT1dXhR%2Fimage.png?alt=media&token=4b0b5517-cf1c-4eaa-8a61-ed8b5be146a2)![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LtFvhrURZC-q-L1-hz0%2F-LtPfR1qFi8AK6pBijty%2F-LtPum0Jb5_R9D3cEVLb%2Fimage.png?alt=media&token=9f18415f-c79c-4efc-a9d6-76ff82a230e8)![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LtFvhrURZC-q-L1-hz0%2F-LtPfR1qFi8AK6pBijty%2F-LtPutmhJIfabmcOzpoC%2Fimage.png?alt=media&token=1566c5e0-1920-481e-a529-13d4719c90ee)
+![](.gitbook/assets/csv_table1.jpeg)
+
+![](.gitbook/assets/csv_table2.jpeg)
+
+![](.gitbook/assets/csv_table3.jpeg)
+
+![](.gitbook/assets/csv_table4.jpeg)
 
 ## **💱 CSV'yi Record'a Çevirme**
 
