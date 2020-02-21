@@ -2,6 +2,7 @@
 
 ## 📋 Tüm Değişiklikler
 
+- 21/02/2020 - 16:58:07 - [👨‍🔧 Tensorflow Object Detection notları düzeltildi](https://github.com/YEmreAk/YArtificialIntelligence/commit/948462c328f0abbdacbebed63b63f9f5a7b80f5d?diff=split) ~ Yunus Emre
 - 15/02/2020 - 18:21:03 - [👨‍🔧](https://github.com/YEmreAk/YArtificialIntelligence/commit/40ff2cf0a2f2013633bf68b401bdcd473bc218f7?diff=split) ~ Yunus Emre
 - 15/02/2020 - 11:57:06 - [👀 Neler değişti alanı eklendi](https://github.com/YEmreAk/YArtificialIntelligence/commit/09e43d46f2faf0ff0c22ef3e3721c8150f2ab639?diff=split) ~ Yunus Emre
 - 13/02/2020 - 10:00:26 - [GitBook: [master] one page modified](https://github.com/YEmreAk/YArtificialIntelligence/commit/7649715f0ed4627bcf6313e9c0a48d119d026a96?diff=split) ~ Yunus Emre
