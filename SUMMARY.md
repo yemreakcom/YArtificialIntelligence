@@ -38,6 +38,7 @@
   * [🚴‍♂️ SciKit-Learn'e Giriş](makine-ogrenimi/scikit-learne-giris.md)
   * [📉 SciKit-Learn](makine-ogrenimi/scikit-learn.md)
 * [🕵️‍♂️ Tensorflow Object Detection API](tensorflow-object-detection-api/README.md)
+  * [📢 Başlamadan Önce \| TODP](tensorflow-object-detection-api/baslamadan-oence-or-todp.md)
   * [🚧 Tensorflow Kurulumu](tensorflow-object-detection-api/tensorflow-kurulumu.md)
   * [🚧 Tensorflow Algılama Modellerinin Kurulumu](tensorflow-object-detection-api/tensorflow-algilama-modellerinin-kurulumu.md)
   * [💷 LabelImg Kurulumu](tensorflow-object-detection-api/labelimg-kurulumu.md)
