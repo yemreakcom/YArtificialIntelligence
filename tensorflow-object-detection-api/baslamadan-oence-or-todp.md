@@ -19,7 +19,8 @@ description: >-
 
 ## 📃 PDF ile Açıklama
 
-* 📃 Çevrimdışı olarak notlara erişmek için PDF olarak hazırladığım kaynağa da bakabilirsin
+* 👀 Çevrimdışı olarak notlara erişmek için PDF olarak hazırladığım kaynağa da bakabilirsin
+* 📢 PDF hali her zaman güncel olmayabilir
 
 {% file src="../.gitbook/assets/ytensorflow.pdf" %}
 
