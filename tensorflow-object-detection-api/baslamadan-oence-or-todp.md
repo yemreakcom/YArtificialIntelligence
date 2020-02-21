@@ -1,3 +1,9 @@
+---
+description: >-
+  Tensorflow Object Detection API ile Obje Bulma ve kullanımı için gerekli
+  talimatlarıma başlamadan önce gerekli bilgiler
+---
+
 # 📢 Başlamadan Önce \| TODP
 
 ## 🌟 Önemli Bilgiler
