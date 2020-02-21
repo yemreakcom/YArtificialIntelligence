@@ -14,26 +14,21 @@ Modeli önerilen dosya olan `model_main.py` ile eğitmek için buraya bakmalıs�
 
 {% tabs %}
 {% tab title="✴️ Windows" %}
-
-```sh
+```bash
 copy %TENSORFLOW%\models\research\object_detection\legacy\train.py ^
 %TENSORFLOW%\workspace\example_detectioncopy ^
 %TENSORFLOW%\models\research\object_detection\model_main.py
 ```
-
 {% endtab %}
 
 {% tab title="🐧 Linux" %}
-
-```sh
+```bash
 copy %TENSORFLOW%/models/research/object_detection/legacy/train.py \
 %TENSORFLOW%/workspace/example_detectioncopy \
 %TENSORFLOW%/models/research/object_detection/model_main.py
 ```
-
 {% endtab %}
 {% endtabs %}
-
 
 ## 📜 Eğitimde Raporlanacak Seviyeyi Ayarlama \(isteğe Bağlı\)
 
@@ -180,7 +175,7 @@ TensorBoard 1.6.0 at http://YOUR-PC:6006 (Press CTRL+C to quit)
 
 **Anaconda Prompt** üzerinden alttaki komutlar uygulanır:
 
-```sh
+```bash
 activate tensorflow_cpu # ya da gpu​copy 
 %TENSORFLOW%\models\research\object_detection/export_inference_graph.py \
 %TENSORFLOW%\workspace\example_detection​

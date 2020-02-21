@@ -1,4 +1,8 @@
-# 🚅 Serileştirmiş Veriler
+---
+description: Serileştirilmiş veriler ve onları işleme
+---
+
+# 🚅 Pickle \| Veri Bilimi
 
 ## 🔰 Serileştirme \(`pickle`\)
 

@@ -30,7 +30,7 @@ python scripts\preprocessing\check_images.py ^
 {% endtab %}
 
 {% tab title="🐧 Linux" %}
-```
+```text
 python scripts\preprocessing\check_images.py \
     -i workspace/example_detection/images/train​
 python scripts\preprocessing\check_images.py \
@@ -54,7 +54,7 @@ python scripts\preprocessing\xml_path_regulator.py ^
 {% endtab %}
 
 {% tab title="🐧 Linux" %}
-```
+```text
 python scripts/preprocessing/xml_path_regulator.py \
 -i %TENSORFLOW%/workspace/example_detection/images/train \
 -p train​python scripts/preprocessing/xml_path_regulator.py \
@@ -95,13 +95,13 @@ Her bir etiketten kaç tane olduğunu anlamak için csv dosyalarını açıp all
 * Tablo'dan etiketlenen verileri kontrol edin
 * Fazladan etiketlenmiş verilerin ismini bulup, filename, width vs. verilerin yazıldığı alanda `CTRL` + `F` komutu ile aratıp, uygun dosya ismini ve `xml` dosyasını silin
 
-![](.gitbook/assets/csv_table1.jpeg)
+![](../.gitbook/assets/csv_table1.jpeg)
 
-![](.gitbook/assets/csv_table2.jpeg)
+![](../.gitbook/assets/csv_table2.jpeg)
 
-![](.gitbook/assets/csv_table3.jpeg)
+![](../.gitbook/assets/csv_table3.jpeg)
 
-![](.gitbook/assets/csv_table4.jpeg)
+![](../.gitbook/assets/csv_table4.jpeg)
 
 ## **💱 CSV'yi Record'a Çevirme**
 
