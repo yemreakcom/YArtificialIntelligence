@@ -15,6 +15,10 @@
 * Yapılandırma dosyası olan `*.config` dosyasındaki `PATH_TO_CONFIGURED` olarak işaretlenen alanlar, `num_classes`, `num_examples` ve `batch_size` değerleri güncellenir.
   * `num_examples` eval dizindeki resim sayısıdır \(toplam class sayısı değil\)
 
+{% hint style="warning" %}
+📢 Tüm notlardaki dizin yapısı [TensorflowObjectDetectionAPI](https://github.com/yedhrab/TensorflowObjectDetectionAPI) reposunun yapısına uygun şekildedir.
+{% endhint %}
+
 ## **🕵️‍♂️ Resimlerdeki Hataları Bulma**
 
 Resimlerde hata olduğu zaman eğitim aşamasında tensorflow modeli çalışma hatası vermektedir. Resimleri kontrol etmek için [buradaki](https://github.com/yedhrab/YArtificalIntelligent/tree/f5ce601da28961f26a48e137783188839c9f5600/3%20-%20Tensorflow/scripts/preprocessing/check_images.py) scripti alttaki komutlarla kullanabilirsiniz.
