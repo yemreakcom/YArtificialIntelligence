@@ -58,13 +58,13 @@ Her sayfanın en altında bulunan memnuniyet anketi ile ✨ gelişime ortak olab
 
 ## 💖 Destek ve İletişim
 
-​[​![Github](https://github.com/YEmreAk/YArtificialIntelligence/tree/09e43d46f2faf0ff0c22ef3e3721c8150f2ab639/.gitbook/assets/github_32px.png)​](https://github.com/yedhrab) [​![LinkedIn](https://github.com/YEmreAk/YArtificialIntelligence/tree/09e43d46f2faf0ff0c22ef3e3721c8150f2ab639/.gitbook/assets/linkedin_32px.png)​](https://www.linkedin.com/in/yemreak/) [​![Website](https://github.com/YEmreAk/YArtificialIntelligence/tree/09e43d46f2faf0ff0c22ef3e3721c8150f2ab639/.gitbook/assets/geography_32px.png)​](https://yemreak.com/) [​![Mail](https://github.com/YEmreAk/YArtificialIntelligence/tree/09e43d46f2faf0ff0c22ef3e3721c8150f2ab639/.gitbook/assets/gmail_32px.png)​](mailto:yemreak.com@gmail.com?subject=YArtificialIntelligent%20%7C%20GitHub)​
+​[​![Github](.gitbook/assets/github_32px.png)​](https://github.com/yedhrab) [​![LinkedIn](.gitbook/assets/linkedin_32px.png)​](https://www.linkedin.com/in/yemreak/) [​![Website](.gitbook/assets/geography_32px.png)​](https://yemreak.com/) [​![Mail](.gitbook/assets/gmail_32px.png)​](mailto:yemreak.com@gmail.com?subject=YArtificialIntelligent%20%7C%20GitHub)​
 
-​[​![Patreon](https://github.com/YEmreAk/YArtificialIntelligence/tree/09e43d46f2faf0ff0c22ef3e3721c8150f2ab639/.gitbook/assets/become_a_patron_32px.png)](https://www.patreon.com/yemreak/)
+​[​![Patreon](.gitbook/assets/become_a_patron_32px.png)](https://www.patreon.com/yemreak/)
 
 ## 🔏 Lisans
 
 **The** [**Apache 2.0 License**](https://choosealicense.com/licenses/apache-2.0/) **©️ Yunus Emre Ak**
 
-![YEmreAk](https://github.com/YEmreAk/YArtificialIntelligence/tree/09e43d46f2faf0ff0c22ef3e3721c8150f2ab639/.gitbook/assets/ysigniture-trans.png)
+![YEmreAk](.gitbook/assets/ysigniture-trans.png)
 
