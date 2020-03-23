@@ -17,6 +17,7 @@
   * [📚  GZip \| Veri Bilimi](veri-bilimi/gzip.md)
   * [🚅 Pickle \| Veri Bilimi](veri-bilimi/pickle.md)
   * [🔢 NumPy \| Veri Bilimi](veri-bilimi/numpy.md)
+  * [📂 WQU Data Science Notları](https://drive.google.com/open?id=1DoSpwHlCrhvEEF1iotw4SDkmaQO-qxEe)
 * [👨‍💼 Veri Yönetimi](veri-yonetimi/README.md)
   * [🗃️ SQL \| Veri Yönetimi](veri-yonetimi/sql.md)
   * [🔢 NumPy \| Veri Yönetimi](veri-yonetimi/numpy/README.md)
