@@ -193,3 +193,7 @@ python export_inference_graph.py \
 * `<checkpoint>` **example\_detection/training** dizinindeki gösterilmek istenen adımın numarası
   * _Örn: 13302_
 
+## 📎 Ek Notlar
+
+* \*\*\*\*[What is difference frozen\_inference\_graph.pb and saved\_model.pb?](https://stackoverflow.com/questions/52934795/what-is-difference-frozen-inference-graph-pb-and-saved-model-pb)
+
