@@ -21,5 +21,7 @@ Colab ücretsiz GPU sunduğu için çok hızlı bir eğitim imkanı sunar.
 
 ## 👩‍💻 Colab Üzerinden Eğitim Kodları <a id="colab-uzerinden-egitim-kodlari"></a>
 
-{% embed url="https://colab.research.google.com/drive/1JvMqUga8ALUF-YwPp4gPVZ8SjxsOoFad" caption="" %}
+{% embed url="https://colab.research.google.com/drive/1nseyw\_dIhhesbXhRyC-qwnduNlLcU0N3?usp=sharing" caption="Tensorflow Model Eğitimi" %}
+
+
 
