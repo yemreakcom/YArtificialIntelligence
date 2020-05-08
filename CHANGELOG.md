@@ -2,6 +2,7 @@
 
 ## 📋 Tüm Değişiklikler
 
+- 08/05/2020 - 12:31:10 - [GitBook: [master] one page modified](https://github.com/YEmreAk/YArtificialIntelligence/commit/642d95c93d3199f6e5158558f88a5e96a0a5d8dc?diff=split) ~ Yunus Emre
 - 08/05/2020 - 12:27:07 - [GitBook: [master] one page modified](https://github.com/YEmreAk/YArtificialIntelligence/commit/cdce29b4c78858d32bcd60c91ded2e8a2e6b8607?diff=split) ~ Yunus Emre
 - 08/05/2020 - 12:26:03 - [GitBook: [master] one page modified](https://github.com/YEmreAk/YArtificialIntelligence/commit/1ebc135957dc7c802a9b787d7500aa49143e2380?diff=split) ~ Yunus Emre
 - 29/03/2020 - 21:47:18 - [GitBook: [master] one page modified](https://github.com/YEmreAk/YArtificialIntelligence/commit/c9566a5ef8d991e3c866065103fd66fd02616b5a?diff=split) ~ Yunus Emre
