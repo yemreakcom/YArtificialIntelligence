@@ -8,7 +8,7 @@ description: Google Collaboratory üzerinden tensorflow modelini eğitme
 
 Colab ücretsiz GPU sunduğu için çok hızlı bir eğitim imkanı sunar.
 
-{% embed url="https://wiki.yemreak.com/google-notlari/google-colabrotory" caption="" %}
+{% embed url="https://lib.yemreak.com/google/google-colabrotory" %}
 
 ## 📂 Colab Eğitimi için Gereken Dosyalar <a id="colab-egitimi-icin-gereken-dosyalar"></a>
 
