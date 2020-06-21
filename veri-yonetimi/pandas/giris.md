@@ -15,6 +15,16 @@ df.to_csv(index=False)
 # 'name,mask,weapon\nRaphael,red,sai\nDonatello,purple,bo staff\n'
 ```
 
+## 🏓 Excel Oluşturma & Okuma
+
+```python
+import pandas as pd
+
+pd.DataFrame({'a': [0, 3, 10], 'b': [True, True, False]}).to_excel('./pd_write.xlsx')
+data = pd.read_csv('./pd_write.xlsx', index_col=0)
+
+```
+
 ## 🧱 Temel İşlemler
 
 | DataFrame İşlemi | Açıklama |  |
