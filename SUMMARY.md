@@ -1,7 +1,7 @@
-# Table of contents
+# 📋 Tüm İçerikler
 
 * [🧠 Yapay Zeka Notlarım](README.md)
-* [👀 Neler değişti](changelog.md)
+* [👀 Neler değişti](https://github.com/YEmreAk/YArtificialIntelligence/blob/master/CHANGELOG.md)
 * [✍ Yazılarım](yazilarim/README.md)
   * [🕵️‍♂️ Tensorflow Object Detection API ile Obje Bulma](yazilarim/tensorflow-object-detection-api-ile-obje-bulma.md)
 * [📚 Çalışma Kaynakları](calisma-kaynaklari/README.md)
@@ -100,4 +100,3 @@
 * [🔥 Firebase ve React Projem](https://github.com/yedhrab/YReact-Firebase)
 * [👨‍💻 Kişisel Scriptlerim](https://github.com/YEmreAk/YScripts)
 * [📕 Türkçe Git Kitabı](https://www.yemreak.com/book-git/)
-
